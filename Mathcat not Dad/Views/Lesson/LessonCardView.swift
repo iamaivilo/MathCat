@@ -5,13 +5,21 @@ struct LessonCardView: View {
     var onStartQuestions: (() -> Void)? = nil
     
     var body: some View {
-        VStack(alignment: .leading, spacing: 16) {
+        VStack(alignment: .leading, spacing: 20) {
             Text(lesson.topic)
-                .font(.title)
-                .bold()
+                .font(.largeTitle)
+                .fontWeight(.bold)
+                .padding(.bottom, 4)
+                .foregroundColor(.primary)
             
-            Text(lesson.lessonMarkdown)
-                .font(.body)
+            Divider()
+                .padding(.vertical, 2)
+            
+            Text(.init(lesson.lessonMarkdown))
+                .font(.system(.body, design: .rounded))
+                .foregroundColor(.primary)
+                .multilineTextAlignment(.leading)
+                .padding(.bottom, 8)
             
             if let onStartQuestions = onStartQuestions {
                 Button(action: onStartQuestions) {
@@ -21,15 +29,18 @@ struct LessonCardView: View {
                         .frame(maxWidth: .infinity)
                         .padding()
                         .background(Color.primary)
-                        .cornerRadius(12)
+                        .cornerRadius(16)
                 }
+                .padding(.top, 8)
             }
         }
-        .padding()
+        .padding(24)
         .background(
-            RoundedRectangle(cornerRadius: 24)
+            RoundedRectangle(cornerRadius: 28, style: .continuous)
                 .fill(Color(.systemBackground))
-                .shadow(radius: 8)
+                .shadow(color: Color.black.opacity(0.08), radius: 12, x: 0, y: 4)
         )
+        .padding(.horizontal, 8)
+        .padding(.top, 8)
     }
 } 

@@ -2,7 +2,7 @@
   {
     "grade": 0,
     "topic": "Counting Cats",
-    "lessonMarkdown": "## Counting Cats! 🐾\nNapping felines make great math friends. First, look at a group of cats and touch each nose as you count out loud. When you reach the last whisker, say the number proudly! Try lining up cat toys to match each cat so you see one‑to‑one pairs. Remember️⃣: counting always goes in order — 1 2 3 4 … . If a cat walks away, count what's left; if another pouncer appears, count again but START OVER so no kitty is skipped. Tip: clap once for every number you say to keep the rhythm. Ready, Little MathCat? 🐱",
+    "lessonMarkdown": "# Counting Cats! 🐾\n\nNapping felines make great math friends. First, look at a group of cats and touch each nose as you **count** out loud.\n\n- When you reach the last whisker, say the number _proudly_!\n- Try lining up cat toys to match each cat so you see **one-to-one pairs**.\n\n> **Remember:** Counting always goes in order — `1 2 3 4 ...`\n\nIf a cat walks away, count what's left; if another pouncer appears, _count again_ but **START OVER** so no kitty is skipped.\n\n_Meowtip:_ Clap once for every number you say to keep the rhythm.\n\n**Ready, Little MathCat?** 🐱",
     "mcq": [
       { "q": "How many cats are here? 🐱🐱🐱", "choices": ["1", "2", "3", "4"], "answer": 2 },
       { "q": "Two cats are playing. One more joins. How many now?", "choices": ["2", "3", "4", "5"], "answer": 1 },
