@@ -8,6 +8,7 @@ class LessonVM: ObservableObject {
     @Published var quizQuestions: [LessonItem.Question] = []
     @Published var quizScore = 0
     @Published var showConfetti = false
+    @Published var practiceAnswers: [Int?] = []
     
     private var lessons: [LessonItem] = []
     
@@ -38,11 +39,15 @@ class LessonVM: ObservableObject {
         currentQuestionIndex = 0
         selectedAnswer = nil
         showAnswer = false
+        practiceAnswers = Array(repeating: nil, count: currentLesson?.mcq.count ?? 0)
     }
     
     func selectAnswer(_ index: Int) {
         selectedAnswer = index
         showAnswer = true
+        if currentQuestionIndex < practiceAnswers.count {
+            practiceAnswers[currentQuestionIndex] = index
+        }
     }
     
     func nextQuestion() {
@@ -68,5 +73,12 @@ class LessonVM: ObservableObject {
     
     func finishQuiz() {
         showConfetti = true
+    }
+    
+    func practiceScore() -> Int {
+        guard let lesson = currentLesson else { return 0 }
+        return lesson.mcq.enumerated().filter { idx, q in
+            practiceAnswers.indices.contains(idx) && practiceAnswers[idx] == q.answer
+        }.count
     }
 } 

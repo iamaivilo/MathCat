@@ -8,7 +8,7 @@ A playful math learning app for kids, featuring cat-themed lessons and quizzes f
 - 🐱 Cat-themed content to keep kids engaged
 - 📝 Multiple-choice questions with instant feedback
 - 🎯 Final quiz with score tracking
-- 🏆 Progress tracking with star ratings
+- 🏆 Progress tracking with dynamic star ratings (scaled to quiz length)
 - 🎨 Customizable avatar and grade selection
 - 📱 iOS 17+ support
 - 🎉 Confetti animations for achievements
@@ -69,7 +69,7 @@ MathCat/
 3. Read through the lesson content
 4. Answer practice questions
 5. Take the final quiz
-6. Track your progress in the Profile tab
+6. Track your progress in the Profile tab (star ratings scale to quiz length for fairness)
 
 ## Contributing
 
