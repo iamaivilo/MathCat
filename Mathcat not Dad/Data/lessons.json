@@ -24,7 +24,7 @@
   {
     "grade": 1,
     "topic": "Add & Subtract with Kittens",
-    "lessonMarkdown": "## Add & Subtract with Kittens ➕➖\nWhen kittens gather, we add; when they scamper off, we subtract. Picture 7 kittens. If 3 more leap onto the sofa, that's 7 + 3. We get 1️⃣0️⃣! If 4 kittens sneak away for snacks, that's 10 − 4 = 6. Notice how we move forward on the number line to add and backward to subtract. Try clapping for every number you count up or down. Keep mental pictures of cat groups to build strong number sense. Ready to pounce into practice? 😺",
+    "lessonMarkdown": "# Add & Subtract with Kittens ➕➖\n\nWhen kittens gather, we **add**; when they scamper off, we **subtract**.\n\n- Picture `7` kittens. If `3` more leap onto the sofa, that's `7 + 3`. We get **10**!\n- If `4` kittens sneak away for snacks, that's `10 - 4 = 6`.\n\n> _Notice how we move forward on the number line to add and backward to subtract._\n\nTry clapping for every number you count up or down.\n\n**Keep mental pictures of cat groups to build strong number sense.**\n\n_Meowtip:_ Practice with your own toys or snacks!\n\n**Ready to pounce into practice?** 😺",
     "mcq": [
       { "q": "7 + 3 = ?", "choices": ["9", "10", "11", "12"], "answer": 1 },
       { "q": "12 − 4 = ?", "choices": ["7", "8", "9", "6"], "answer": 1 },
@@ -46,7 +46,7 @@
   {
     "grade": 2,
     "topic": "Two‑Digit Adventures",
-    "lessonMarkdown": "## Two‑Digit Adventures 😸\nNow our cats explore double‑digit streets. When adding 27 + 35, stack them so tens are on top of tens, ones on ones. 7 + 5 = 12; write 2, carry 1 to the tens column: 2 + 3 + 1 = 6. Result: 62. For subtraction like 54 − 27, borrow from the tens if the top ones digit is smaller. Visualize tens rods and ones cubes (cat towers and yarn balls). Practice keeps the process purring smoothly!",
+    "lessonMarkdown": "# Two‑Digit Adventures 😸\n\nNow our cats explore **double-digit** streets!\n\n- When adding `27 + 35`, stack them so tens are on top of tens, ones on ones.\n- `7 + 5 = 12`; write `2`, carry `1` to the tens column: `2 + 3 + 1 = 6`.\n- Result: **62**.\n\n> For subtraction like `54 - 27`, _borrow from the tens if the top ones digit is smaller_.\n\nVisualize tens rods and ones cubes (cat towers and yarn balls).\n\n_Meowtip:_ Practice keeps the process **purring** smoothly!\n\n**Ready for double-digit fun?**",
     "mcq": [
       { "q": "34 + 25 = ?", "choices": ["49", "50", "59", "60"], "answer": 2 },
       { "q": "62 − 18 = ?", "choices": ["44", "46", "54", "48"], "answer": 1 },
@@ -68,7 +68,7 @@
   {
     "grade": 3,
     "topic": "Multiplication Mania",
-    "lessonMarkdown": "## Multiplication Mania ✖️🐾\nMultiplication is speedy addition. 3 × 4 is the same as 4 + 4 + 4. Picture rows of cats on comfy mats: 3 rows, 4 cats each. Skip‑count 4, 8, 12 to land at 12. Facts up to 10 × 10 are your new superpower. Use arrays, finger tricks, and chanting to memorize. Remember the Commutative Rule: 4 × 3 equals 3 × 4. Meowtip: Purr through flash cards daily and watch totals pop into your head!",
+    "lessonMarkdown": "# Multiplication Mania ✖️🐾\n\nMultiplication is **speedy addition**!\n\n- `3 × 4` is the same as `4 + 4 + 4`.\n- Picture rows of cats on comfy mats: `3` rows, `4` cats each.\n- Skip-count: `4, 8, 12` to land at **12**.\n\n> **Meowtip:** Facts up to `10 × 10` are your new superpower!\n\nUse arrays, finger tricks, and chanting to memorize.\n\n**Remember:** The _Commutative Rule_: `4 × 3` equals `3 × 4`.\n\n_Meowtip:_ Purr through flash cards daily and watch totals pop into your head!\n\n**Ready to multiply?**",
     "mcq": [
       { "q": "6 × 7 = ?", "choices": ["42", "36", "40", "48"], "answer": 0 },
       { "q": "Which equals 5 × 4?", "choices": ["4 + 4 + 4", "4 + 4 + 4 + 4 + 4", "5 + 5 + 5 + 5 + 5", "5 + 5 + 5"], "answer": 1 },
@@ -90,7 +90,7 @@
   {
     "grade": 4,
     "topic": "Division & Factors",
-    "lessonMarkdown": "## Division & Factors 🔢🐱\nDivision shares fairly. 24 ÷ 6 means 24 fish split into 6 equal bowls — 4 fish each. Check using multiplication: 4 × 6 = 24. Remainders appear when things don't split perfectly; 25 ÷ 6 leaves 1 fish lonely (remainder 1). Prime factors are tiny building blocks; 12 breaks into 2 × 2 × 3. Factor pairs help with mental math and simplifying fractions. Use area models and fact families to see the connections.",
+    "lessonMarkdown": "# Division & Factors 🔢🐱\n\nDivision **shares fairly**.\n\n- `24 ÷ 6` means 24 fish split into 6 equal bowls — `4` fish each.\n- Check using multiplication: `4 × 6 = 24`.\n- Remainders appear when things don't split perfectly; `25 ÷ 6` leaves 1 fish lonely (_remainder 1_).\n\n> **Prime factors** are tiny building blocks; `12` breaks into `2 × 2 × 3`.\n\n- Factor pairs help with mental math and simplifying fractions.\n- Use area models and fact families to see the connections.\n\n**Ready to divide and conquer?**",
     "mcq": [
       { "q": "32 ÷ 4 = ?", "choices": ["6", "7", "8", "9"], "answer": 2 },
       { "q": "Which multiplication fact checks 45 ÷ 5 = 9?", "choices": ["9 × 5 = 45", "5 × 5 = 25", "9 × 9 = 81", "45 × 9 = 5"], "answer": 0 },
@@ -112,7 +112,7 @@
   {
     "grade": 5,
     "topic": "Fun with Fractions",
-    "lessonMarkdown": "## Fun with Fractions 🧁🐈‍⬛\nFractions name parts of a whole. In 3⁄4, the **numerator** (3) counts the eaten cupcakes; the **denominator** (4) is how many existed. Equivalent fractions taste the same size: 1⁄2 = 2⁄4 = 4⁄8. To add like denominators, just add tops: 3⁄8 + 2⁄8 = 5⁄8. For unlike ones, find a common denominator first (cat bowls must match!). Mixed numbers combine wholes and fractions (2 1⁄3). Simplify whenever possible so answers stay neat.",
+    "lessonMarkdown": "# Fun with Fractions 🧁🐈‍⬛\n\nFractions name **parts of a whole**.\n\n- In `3⁄4`, the **numerator** (`3`) counts the eaten cupcakes; the **denominator** (`4`) is how many existed.\n- Equivalent fractions taste the same size: `1⁄2 = 2⁄4 = 4⁄8`.\n- To add like denominators, just add tops: `3⁄8 + 2⁄8 = 5⁄8`.\n- For unlike ones, find a **common denominator** first (_cat bowls must match!_).\n\n> Mixed numbers combine wholes and fractions (`2 1⁄3`).\n\n- Simplify whenever possible so answers stay neat.\n\n**Ready for fraction fun?**",
     "mcq": [
       { "q": "Which is equivalent to 1⁄2?", "choices": ["2⁄6", "2⁄4", "3⁄5", "4⁄6"], "answer": 1 },
       { "q": "3⁄8 + 2⁄8 = ?", "choices": ["5⁄16", "5⁄8", "6⁄8", "1"], "answer": 1 },
@@ -134,7 +134,7 @@
   {
     "grade": 6,
     "topic": "Decimals & Ratios",
-    "lessonMarkdown": "## Decimals & Ratios 🐟🐟\nDecimals show parts of ten. 0.5 is the same as 1⁄2. Line digits up by the decimal point when adding or subtracting. To multiply, ignore the dot, multiply, then count total decimal places. Ratios compare quantities: if 3 black cats play with 2 white cats, the ratio is 3 : 2. Proportions keep ratios equal—scale recipes for more hungry felines! Convert between fractions, decimals, and percentages to become a flexible cat‑culator.",
+    "lessonMarkdown": "# Decimals & Ratios 🐟🐟\n\nDecimals show **parts of ten**.\n\n- `0.5` is the same as `1⁄2`.\n- Line digits up by the decimal point when adding or subtracting.\n- To multiply, ignore the dot, multiply, then count total decimal places.\n\n> **Ratios** compare quantities: if `3` black cats play with `2` white cats, the ratio is `3:2`.\n\n- Proportions keep ratios equal—scale recipes for more hungry felines!\n- Convert between fractions, decimals, and percentages to become a flexible **cat-culator**.\n\n**Ready to play with decimals?**",
     "mcq": [
       { "q": "0.7 as a fraction is…", "choices": ["7⁄10", "7⁄100", "1⁄7", "70"], "answer": 0 },
       { "q": "Add: 3.25 + 1.4 =", "choices": ["4.29", "4.55", "4.65", "4.75"], "answer": 2 },
@@ -156,7 +156,7 @@
   {
     "grade": 7,
     "topic": "Integers & Expressions",
-    "lessonMarkdown": "## Integers & Expressions ➕➖🐾\nIntegers include negatives: −5 is 5 steps below zero. When adding integers, move right for positives, left for negatives. Subtracting a negative is like adding its opposite. Evaluate algebraic expressions by substituting values: for 3x − 2, if x = 4, answer is 10. Use the Order of Operations (PEMDAS) so exponents and multiplication happen before addition. Keep a tidy workspace to avoid sign‑slip catastrophes!",
+    "lessonMarkdown": "# Integers & Expressions ➕➖🐾\n\nIntegers include **negatives**: `-5` is 5 steps below zero.\n\n- When adding integers, move right for positives, left for negatives.\n- Subtracting a negative is like adding its opposite.\n\n> **Evaluate** algebraic expressions by substituting values: for `3x - 2`, if `x = 4`, answer is `10`.\n\n- Use the **Order of Operations** (`PEMDAS`) so exponents and multiplication happen before addition.\n- Keep a tidy workspace to avoid sign-slip catastrophes!\n\n**Ready to try some integer magic?**",
     "mcq": [
       { "q": "−3 + 7 = ?", "choices": ["−10", "4", "10", "−4"], "answer": 1 },
       { "q": "What is −8 − (−3)?", "choices": ["−11", "−5", "5", "11"], "answer": 1 },
@@ -178,7 +178,7 @@
   {
     "grade": 8,
     "topic": "Linear Equations & Geometry",
-    "lessonMarkdown": "## Linear Equations & Geometry 📈🐈\nA linear equation like y = 2x + 1 graphs a straight line; **slope** (m) = 2 tells how steep the cat walkway rises, and **y‑intercept** = 1 shows where it crosses the y‑axis. Solve systems by finding where lines meet (the purr‑fect intersection). The Pythagorean Theorem, a² + b² = c², finds the ladder length for cats climbing corner walls. Understand functions: each x (input) gives exactly one y (output).",
+    "lessonMarkdown": "# Linear Equations & Geometry 📈🐈\n\nA linear equation like `y = 2x + 1` graphs a straight line; **slope** (`m = 2`) tells how steep the cat walkway rises, and **y-intercept** (`= 1`) shows where it crosses the y-axis.\n\n- Solve systems by finding where lines meet (the _purr-fect intersection_).\n- The **Pythagorean Theorem**, `a² + b² = c²`, finds the ladder length for cats climbing corner walls.\n- Understand **functions**: each `x` (input) gives exactly one `y` (output).\n\n> _Meowtip:_ Draw lines and triangles with a ruler for extra precision!\n\n**Ready to graph and solve?**",
     "mcq": [
       { "q": "Slope of y = 3x − 4", "choices": ["−4", "3", "4", "0"], "answer": 1 },
       { "q": "Solve for x: 2x + 5 = 11", "choices": ["2", "3", "4", "5"], "answer": 1 },

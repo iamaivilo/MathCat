@@ -22,6 +22,11 @@ struct QuizView: View {
                     onAnswerSelected: { index in
                         onSubmitAnswer(index, questions[currentQuestionIndex])
                         showAnswer = true
+                        if currentQuestionIndex == questions.count - 1 {
+                            DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+                                onFinish()
+                            }
+                        }
                     },
                     onNext: {
                         currentQuestionIndex += 1

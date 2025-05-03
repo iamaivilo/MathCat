@@ -19,5 +19,8 @@ struct TabRootView: View {
         .onAppear {
             lessonVM.loadLesson(for: Grade(rawValue: userProfileVM.selectedGrade) ?? .k)
         }
+        .onChange(of: userProfileVM.selectedGrade) { newGrade in
+            lessonVM.loadLesson(for: Grade(rawValue: newGrade) ?? .k)
+        }
     }
 } 

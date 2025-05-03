@@ -6,6 +6,8 @@ struct LessonTabView: View {
     @State private var showProfile = false
     @State private var showQuestions = false
     @State private var showPracticeResult = false
+    @State private var showQuiz = false
+    @State private var showQuizResult = false
     
     var body: some View {
         NavigationView {
@@ -79,8 +81,57 @@ struct LessonTabView: View {
                                     Button(action: {
                                         showPracticeResult = false
                                         lessonVM.startQuiz()
+                                        showQuiz = true
                                     }) {
                                         Text("Start Final Quiz")
+                                            .font(.headline)
+                                            .foregroundColor(.white)
+                                            .padding()
+                                            .background(Color.primary)
+                                            .cornerRadius(12)
+                                    }
+                                }
+                            }
+                            if showQuiz {
+                                QuizView(
+                                    questions: lessonVM.quizQuestions,
+                                    score: lessonVM.quizScore,
+                                    showConfetti: lessonVM.showConfetti,
+                                    onSubmitAnswer: { index, question in
+                                        lessonVM.submitQuizAnswer(index, for: question)
+                                    },
+                                    onFinish: {
+                                        lessonVM.finishQuiz()
+                                        userProfileVM.saveQuizResult(
+                                            grade: Grade(rawValue: lesson.grade) ?? .k,
+                                            score: lessonVM.quizScore,
+                                            totalQuestions: lessonVM.quizQuestions.count
+                                        )
+                                        showQuiz = false
+                                        showQuizResult = true
+                                    }
+                                )
+                            }
+                            if showQuizResult {
+                                let correct = lessonVM.quizScore
+                                let total = lessonVM.quizQuestions.count
+                                let stars = Int(round(Double(correct) / Double(max(total,1)) * 5.0))
+                                VStack(spacing: 24) {
+                                    Text("Quiz Complete! 🎉")
+                                        .font(.title2)
+                                        .bold()
+                                    Text("You got \(correct) out of \(total) correct!")
+                                        .font(.title3)
+                                    HStack(spacing: 4) {
+                                        ForEach(0..<5) { i in
+                                            Image(systemName: i < stars ? "star.fill" : "star")
+                                                .foregroundColor(.yellow)
+                                        }
+                                    }
+                                    Button(action: {
+                                        showQuizResult = false
+                                    }) {
+                                        Text("Back to Lesson")
                                             .font(.headline)
                                             .foregroundColor(.white)
                                             .padding()
