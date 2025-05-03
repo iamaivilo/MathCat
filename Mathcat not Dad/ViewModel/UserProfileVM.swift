@@ -10,6 +10,7 @@ class UserProfileVM: ObservableObject {
     @AppStorage("lastGameDate") var lastGameDate: Double = 0 // TimeInterval since 1970
     
     @Published var quizResults: [QuizResult] = []
+    private var gameQuestions: GameQuestions?
     
     var purchasedIconList: [String] {
         purchasedIcons.split(separator: ",").map { String($0) }
@@ -46,6 +47,7 @@ class UserProfileVM: ObservableObject {
     
     init() {
         loadQuizResults()
+        gameQuestions = GameQuestions.load()
     }
     
     private func loadQuizResults() {
@@ -71,5 +73,28 @@ class UserProfileVM: ObservableObject {
     func resetProgress() {
         quizResults = []
         quizResultsData = Data()
+    }
+    
+    func resetGames() {
+        treats = 0
+        purchasedIcons = ""
+        lastGameDate = 0
+    }
+    
+    func resetAppState() {
+        userName = ""
+        avatar = "😺"
+        selectedGrade = 0
+        resetProgress()
+        resetGames()
+    }
+    
+    // MARK: - Game Questions
+    func getCatTreatQuestions() -> [LessonItem.Question] {
+        return gameQuestions?.catTreat.questions ?? []
+    }
+    
+    func getCatGroomingQuestions() -> [LessonItem.Question] {
+        return gameQuestions?.catGrooming.questions ?? []
     }
 } 

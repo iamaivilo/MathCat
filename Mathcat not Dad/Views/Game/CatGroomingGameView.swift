@@ -95,9 +95,7 @@ struct CatGroomingGameView: View {
     }
     
     func startGame() {
-        // Use random hard questions from all grades for fun
-        // For now, use dummy harder questions
-        questions = (1...5).map { i in LessonItem.Question(q: "Hard Q\(i)?", choices: ["A","B","C","D"], answer: Int.random(in: 0...3)) }
+        questions = userProfileVM.getCatGroomingQuestions()
         timeLeft = 60
         correctCount = 0
         currentQuestion = 0

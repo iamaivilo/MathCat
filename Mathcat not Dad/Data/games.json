@@ -1,0 +1,85 @@
+{
+    "catTreat": {
+        "questions": [
+            {
+                "q": "What is 2 + 3?",
+                "choices": ["4", "5", "6", "7"],
+                "answer": 1
+            },
+            {
+                "q": "What is 7 - 4?",
+                "choices": ["2", "3", "4", "5"],
+                "answer": 1
+            },
+            {
+                "q": "What is 3 × 2?",
+                "choices": ["4", "5", "6", "7"],
+                "answer": 2
+            },
+            {
+                "q": "What is 8 ÷ 2?",
+                "choices": ["2", "3", "4", "5"],
+                "answer": 2
+            },
+            {
+                "q": "What is 5 + 4?",
+                "choices": ["8", "9", "10", "11"],
+                "answer": 1
+            },
+            {
+                "q": "What is 10 - 6?",
+                "choices": ["3", "4", "5", "6"],
+                "answer": 1
+            },
+            {
+                "q": "What is 4 × 3?",
+                "choices": ["10", "11", "12", "13"],
+                "answer": 2
+            },
+            {
+                "q": "What is 15 ÷ 3?",
+                "choices": ["4", "5", "6", "7"],
+                "answer": 1
+            },
+            {
+                "q": "What is 6 + 7?",
+                "choices": ["12", "13", "14", "15"],
+                "answer": 1
+            },
+            {
+                "q": "What is 12 - 5?",
+                "choices": ["6", "7", "8", "9"],
+                "answer": 1
+            }
+        ]
+    },
+    "catGrooming": {
+        "questions": [
+            {
+                "q": "What is 12 × 3?",
+                "choices": ["34", "36", "38", "40"],
+                "answer": 1
+            },
+            {
+                "q": "What is 45 ÷ 5?",
+                "choices": ["8", "9", "10", "11"],
+                "answer": 1
+            },
+            {
+                "q": "What is 7 × 8?",
+                "choices": ["54", "56", "58", "60"],
+                "answer": 1
+            },
+            {
+                "q": "What is 72 ÷ 8?",
+                "choices": ["8", "9", "10", "11"],
+                "answer": 1
+            },
+            {
+                "q": "What is 9 × 7?",
+                "choices": ["61", "63", "65", "67"],
+                "answer": 1
+            }
+        ]
+    }
+} 

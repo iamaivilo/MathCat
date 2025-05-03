@@ -89,15 +89,7 @@ struct CatTreatGameView: View {
     }
     
     func startGame() {
-        // Use random questions from all grades for fun
-        let allQuestions = (0...8).compactMap { g in
-            userProfileVM.quizResults.first { $0.grade.rawValue == g }?.grade
-        }.flatMap { grade in
-            // You can load from lessons.json or use a static bank
-            [] // TODO: Replace with real question loading
-        }
-        // For now, use dummy questions
-        questions = (1...10).map { i in LessonItem.Question(q: "Question \(i)?", choices: ["A","B","C","D"], answer: Int.random(in: 0...3)) }
+        questions = userProfileVM.getCatTreatQuestions()
         timeLeft = 120
         correctCount = 0
         currentQuestion = 0

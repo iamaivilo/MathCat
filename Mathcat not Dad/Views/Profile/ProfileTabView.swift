@@ -100,6 +100,18 @@ struct ProfileTabView: View {
                                     .fill(Color.red.opacity(0.1))
                             )
                     }
+                    
+                    // Reset Games Button (resets treats, purchased items, and daily limit)
+                    Button(action: userProfileVM.resetGames) {
+                        Text("Reset Games")
+                            .foregroundColor(.orange)
+                            .padding()
+                            .frame(maxWidth: .infinity)
+                            .background(
+                                RoundedRectangle(cornerRadius: 12)
+                                    .fill(Color.orange.opacity(0.1))
+                            )
+                    }
                 }
                 .padding()
             }
