@@ -124,7 +124,11 @@ struct ProfileTabView: View {
                 }
             }
             .sheet(isPresented: $showEmojiPicker) {
-                EmojiPickerSheet(selectedEmoji: $userProfileVM.avatar)
+                let defaultEmojis = ["😺", "😸", "😹", "😻", "😼", "😽", "🙀", "😿", "😾", "😺‍👓", "😺‍🚀"]
+                let purchased = userProfileVM.purchasedIconList
+                let extraIcons = purchased.filter { !defaultEmojis.contains($0) }
+                let allAvatars = defaultEmojis + extraIcons
+                EmojiPickerSheet(selectedEmoji: $userProfileVM.avatar, availableEmojis: allAvatars)
             }
             .sheet(isPresented: $showGradePicker) {
                 GradePickerSheet(selectedGrade: $userProfileVM.selectedGrade)

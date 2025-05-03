@@ -33,6 +33,11 @@ struct CatGroomingGameView: View {
                     Text("You earned \(correctCount * 2) treats!")
                         .font(.headline)
                         .foregroundColor(.yellow)
+                    if correctCount == questions.count && questions.count > 0 {
+                        Text("Perfect! +20 bonus treats! 🎉")
+                            .font(.headline)
+                            .foregroundColor(.orange)
+                    }
                     Button("Next") {
                         dismiss()
                     }
@@ -121,6 +126,9 @@ struct CatGroomingGameView: View {
         timer?.invalidate()
         showResult = true
         userProfileVM.addTreats(correctCount * 2)
+        if correctCount == questions.count && questions.count > 0 {
+            userProfileVM.addTreats(20)
+        }
         userProfileVM.markGamePlayed()
     }
 } 
