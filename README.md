@@ -1,79 +1,119 @@
-# MathCat
+# MathCat - Fun Math Learning for Kids
 
-A playful math learning app for kids, featuring cat-themed lessons and quizzes for grades K-8.
+A playful, kid-friendly iOS app that makes learning math fun! Built with SwiftUI.
 
 ## Features
 
-- 📚 Grade-appropriate math lessons (K-8)
-- 🐱 Cat-themed content to keep kids engaged
-- 📝 Multiple-choice questions with instant feedback
-- 🎯 Final quiz with score tracking
-- 🏆 Progress tracking with dynamic star ratings (scaled to quiz length)
-- 🎨 Customizable avatar and grade selection
-- 📱 iOS 17+ support
-- 🎉 Confetti animations for achievements
-
-## Requirements
-
-- Xcode 15 or later
-- iOS 17.0 or later
-- Swift 5.9 or later
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/MathCat.git
-```
-
-2. Open the project in Xcode:
-```bash
-cd MathCat
-open MathCat.xcodeproj
-```
-
-3. Select your target device (iPhone or iPad) and click the Run button (⌘R)
+- **Interactive Lessons**: Grade-appropriate math lessons with engaging content
+- **Practice & Quizzes**: Test knowledge with practice questions and final quizzes
+- **Progress Tracking**: Track progress with star ratings for each grade
+- **Fun Games**:
+  - Cat Treat: 10 questions in 2 minutes, earn treats
+  - Cat Grooming: 5 harder questions in 1 minute, earn double treats
+  - Cat House: Shop to buy fun icons with earned treats
+- **Daily Play Limits**: Games can be played once per day
+- **Profile Customization**: Choose avatar and grade level
+- **Testing Tools**: Reset buttons for progress and games
 
 ## Project Structure
 
 ```
-MathCat/
-├── Model/
-│   ├── Grade.swift
-│   ├── LessonItem.swift
-│   └── QuizResult.swift
+Mathcat not Dad/
 ├── Data/
-│   └── lessons.json
+│   ├── lessons.json      # Lesson content for each grade
+│   └── games.json        # Game questions for Cat Treat and Cat Grooming
+├── Model/
+│   ├── Grade.swift       # Grade enum and related types
+│   ├── LessonItem.swift  # Lesson and question models
+│   └── GameQuestions.swift # Game questions model
 ├── ViewModel/
-│   ├── UserProfileVM.swift
-│   └── LessonVM.swift
+│   ├── UserProfileVM.swift  # User data and game state management
+│   └── LessonVM.swift    # Lesson and quiz logic
 ├── Views/
 │   ├── OnboardingView.swift
 │   ├── TabRootView.swift
 │   ├── Lesson/
-│   │   ├── LessonCardView.swift
-│   │   ├── QuestionView.swift
+│   │   ├── LessonTabView.swift
 │   │   └── QuizView.swift
+│   ├── Game/
+│   │   ├── GameTabView.swift
+│   │   ├── CatTreatGameView.swift
+│   │   ├── CatGroomingGameView.swift
+│   │   └── CatHouseView.swift
 │   └── Profile/
-│       ├── ProfileView.swift
+│       ├── ProfileTabView.swift
 │       ├── EmojiPickerSheet.swift
 │       └── GradePickerSheet.swift
-└── Resources/
-    └── AppColors.xcassets
+└── Mathcat not DadApp.swift
 ```
 
-## Usage
+## Data Structure
 
-1. Launch the app and complete the onboarding process
-2. Select your grade level
-3. Read through the lesson content
-4. Answer practice questions
-5. Take the final quiz
-6. Track your progress in the Profile tab (star ratings scale to quiz length for fairness)
+### Lessons (lessons.json)
+```json
+{
+  "grade": 0,
+  "topic": "Addition",
+  "lessonMarkdown": "...",
+  "mcq": [
+    {
+      "q": "What is 2 + 3?",
+      "choices": ["4", "5", "6", "7"],
+      "answer": 1
+    }
+  ],
+  "quizBank": [...]
+}
+```
 
-## Contributing
+### Games (games.json)
+```json
+{
+  "catTreat": {
+    "questions": [
+      {
+        "q": "What is 2 + 3?",
+        "choices": ["4", "5", "6", "7"],
+        "answer": 1
+      }
+    ]
+  },
+  "catGrooming": {
+    "questions": [
+      {
+        "q": "What is 12 × 3?",
+        "choices": ["34", "36", "38", "40"],
+        "answer": 1
+      }
+    ]
+  }
+}
+```
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+## Development Notes
+
+- **Testing Tools**:
+  - Reset Progress: Clears lesson progress and star ratings
+  - Reset Games: Clears treats, purchased items, and daily game limit
+  - Both buttons available in Profile tab
+
+- **Game Mechanics**:
+  - Cat Treat: 10 questions, 2 minutes, 1 treat per correct answer
+  - Cat Grooming: 5 harder questions, 1 minute, 2 treats per correct answer
+  - Cat House: Shop to buy icons with treats
+  - Daily play limit: One game per day
+
+## Requirements
+
+- iOS 15.0+
+- Xcode 13.0+
+- Swift 5.5+
+
+## Installation
+
+1. Clone the repository
+2. Open `Mathcat not Dad.xcodeproj` in Xcode
+3. Build and run on simulator or device
 
 ## License
 
