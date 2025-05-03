@@ -1,0 +1,200 @@
+[
+  {
+    "grade": 0,
+    "topic": "Counting Cats",
+    "lessonMarkdown": "## Counting Cats! 🐾\nNapping felines make great math friends. First, look at a group of cats and touch each nose as you count out loud. When you reach the last whisker, say the number proudly! Try lining up cat toys to match each cat so you see one‑to‑one pairs. Remember️⃣: counting always goes in order — 1 2 3 4 … . If a cat walks away, count what's left; if another pouncer appears, count again but START OVER so no kitty is skipped. Tip: clap once for every number you say to keep the rhythm. Ready, Little MathCat? 🐱",
+    "mcq": [
+      { "q": "How many cats are here? 🐱🐱🐱", "choices": ["1", "2", "3", "4"], "answer": 2 },
+      { "q": "Two cats are playing. One more joins. How many now?", "choices": ["2", "3", "4", "5"], "answer": 1 },
+      { "q": "Which number shows five cats?", "choices": ["2", "5", "3", "1"], "answer": 1 },
+      { "q": "Four cats are eating. One walks away. Cats still eating?", "choices": ["3", "4", "2", "5"], "answer": 0 },
+      { "q": "Point to the biggest number.", "choices": ["7", "9", "2", "5"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "Count the paws: 🐾🐾🐾🐾🐾", "choices": ["4", "5", "6", "3"], "answer": 1 },
+      { "q": "Which set shows 2 cats?", "choices": ["🐱", "🐱🐱", "🐱🐱🐱", "🐱🐱🐱🐱"], "answer": 1 },
+      { "q": "1 + 3 = ?", "choices": ["2", "3", "4", "5"], "answer": 2 },
+      { "q": "Take away 1 from 4 = ?", "choices": ["2", "3", "4", "1"], "answer": 1 },
+      { "q": "Which is *more*: 8 or 6?", "choices": ["6", "8", "Same", "0"], "answer": 1 },
+      { "q": "Zero cats means…", "choices": ["Some", "None", "Ten", "One"], "answer": 1 },
+      { "q": "Count the yarn balls: 🧶🧶", "choices": ["1", "2", "3", "4"], "answer": 1 },
+      { "q": "Add one paw to 4 paws gives…", "choices": ["4", "5", "6", "7"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 1,
+    "topic": "Add & Subtract with Kittens",
+    "lessonMarkdown": "## Add & Subtract with Kittens ➕➖\nWhen kittens gather, we add; when they scamper off, we subtract. Picture 7 kittens. If 3 more leap onto the sofa, that's 7 + 3. We get 1️⃣0️⃣! If 4 kittens sneak away for snacks, that's 10 − 4 = 6. Notice how we move forward on the number line to add and backward to subtract. Try clapping for every number you count up or down. Keep mental pictures of cat groups to build strong number sense. Ready to pounce into practice? 😺",
+    "mcq": [
+      { "q": "7 + 3 = ?", "choices": ["9", "10", "11", "12"], "answer": 1 },
+      { "q": "12 − 4 = ?", "choices": ["7", "8", "9", "6"], "answer": 1 },
+      { "q": "Which sign means subtraction?", "choices": ["+", "−", "×", "="], "answer": 1 },
+      { "q": "You have 5 fish treats and give 2 to a cat. Treats left?", "choices": ["3", "4", "2", "1"], "answer": 0 },
+      { "q": "Which pair makes 15?", "choices": ["7 and 8", "10 and 4", "6 and 8", "9 and 3"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "9 + 6 = ?", "choices": ["14", "15", "16", "17"], "answer": 1 },
+      { "q": "15 − 7 = ?", "choices": ["7", "8", "9", "10"], "answer": 1 },
+      { "q": "Fill the blank: 4 + __ = 13", "choices": ["9", "8", "7", "6"], "answer": 0 },
+      { "q": "Which is the SAME as 18 − 9?", "choices": ["9", "8", "10", "11"], "answer": 0 },
+      { "q": "5 kittens + 5 kittens = ?", "choices": ["9", "10", "11", "12"], "answer": 1 },
+      { "q": "20 − 0 = ?", "choices": ["20", "0", "19", "21"], "answer": 0 },
+      { "q": "11 + 4 = ?", "choices": ["14", "15", "16", "17"], "answer": 1 },
+      { "q": "Which fact is true?", "choices": ["6 + 8 = 13", "3 + 7 = 10", "5 + 9 = 13", "12 − 5 = 4"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 2,
+    "topic": "Two‑Digit Adventures",
+    "lessonMarkdown": "## Two‑Digit Adventures 😸\nNow our cats explore double‑digit streets. When adding 27 + 35, stack them so tens are on top of tens, ones on ones. 7 + 5 = 12; write 2, carry 1 to the tens column: 2 + 3 + 1 = 6. Result: 62. For subtraction like 54 − 27, borrow from the tens if the top ones digit is smaller. Visualize tens rods and ones cubes (cat towers and yarn balls). Practice keeps the process purring smoothly!",
+    "mcq": [
+      { "q": "34 + 25 = ?", "choices": ["49", "50", "59", "60"], "answer": 2 },
+      { "q": "62 − 18 = ?", "choices": ["44", "46", "54", "48"], "answer": 1 },
+      { "q": "What do we call the number carried over in addition?", "choices": ["Borrow", "Sum", "Carry", "Digit"], "answer": 2 },
+      { "q": "Which sum is correct?", "choices": ["27 + 14 = 41", "48 + 12 = 51", "36 + 25 = 61", "19 + 19 = 28"], "answer": 2 },
+      { "q": "50 − 37 needs you to…", "choices": ["Carry", "Borrow", "Multiply", "Round"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "29 + 47 = ?", "choices": ["66", "75", "76", "78"], "answer": 2 },
+      { "q": "73 − 58 = ?", "choices": ["25", "15", "14", "13"], "answer": 3 },
+      { "q": "45 + 16 = ?", "choices": ["51", "61", "59", "60"], "answer": 2 },
+      { "q": "86 − 29 = ?", "choices": ["57", "67", "59", "60"], "answer": 0 },
+      { "q": "Which is greater?", "choices": ["64", "46", "Equal", "Not sure"], "answer": 0 },
+      { "q": "Add the ones: 7 + 8 = ?", "choices": ["13", "14", "15", "16"], "answer": 0 },
+      { "q": "If you borrow 1 ten, it equals ___ ones.", "choices": ["1", "10", "100", "0"], "answer": 1 },
+      { "q": "38 + 27 = ?", "choices": ["55", "56", "57", "65"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 3,
+    "topic": "Multiplication Mania",
+    "lessonMarkdown": "## Multiplication Mania ✖️🐾\nMultiplication is speedy addition. 3 × 4 is the same as 4 + 4 + 4. Picture rows of cats on comfy mats: 3 rows, 4 cats each. Skip‑count 4, 8, 12 to land at 12. Facts up to 10 × 10 are your new superpower. Use arrays, finger tricks, and chanting to memorize. Remember the Commutative Rule: 4 × 3 equals 3 × 4. Meowtip: Purr through flash cards daily and watch totals pop into your head!",
+    "mcq": [
+      { "q": "6 × 7 = ?", "choices": ["42", "36", "40", "48"], "answer": 0 },
+      { "q": "Which equals 5 × 4?", "choices": ["4 + 4 + 4", "4 + 4 + 4 + 4 + 4", "5 + 5 + 5 + 5 + 5", "5 + 5 + 5"], "answer": 1 },
+      { "q": "3 × 0 = ?", "choices": ["0", "3", "1", "None"], "answer": 0 },
+      { "q": "What property says 8 × 2 = 2 × 8?", "choices": ["Associative", "Commutative", "Distributive", "Cat‑tastic"], "answer": 1 },
+      { "q": "Which product is 56?", "choices": ["7 × 7", "8 × 7", "6 × 8", "4 × 14"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "9 × 6 = ?", "choices": ["45", "54", "63", "72"], "answer": 1 },
+      { "q": "4 × 8 = ?", "choices": ["28", "30", "32", "36"], "answer": 2 },
+      { "q": "7 × 7 = ?", "choices": ["42", "45", "48", "49"], "answer": 3 },
+      { "q": "Zero property: 0 × 9 = ?", "choices": ["0", "9", "1", "None"], "answer": 0 },
+      { "q": "5 × 9 = ?", "choices": ["45", "40", "35", "50"], "answer": 0 },
+      { "q": "Which of these is 72?", "choices": ["8 × 8", "6 × 12", "9 × 8", "7 × 9"], "answer": 2 },
+      { "q": "2 × 6 × 3 = ?", "choices": ["18", "24", "30", "36"], "answer": 1 },
+      { "q": "True or False: 3 × 5 = 15", "choices": ["True", "False", "Maybe", "Skip"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 4,
+    "topic": "Division & Factors",
+    "lessonMarkdown": "## Division & Factors 🔢🐱\nDivision shares fairly. 24 ÷ 6 means 24 fish split into 6 equal bowls — 4 fish each. Check using multiplication: 4 × 6 = 24. Remainders appear when things don't split perfectly; 25 ÷ 6 leaves 1 fish lonely (remainder 1). Prime factors are tiny building blocks; 12 breaks into 2 × 2 × 3. Factor pairs help with mental math and simplifying fractions. Use area models and fact families to see the connections.",
+    "mcq": [
+      { "q": "32 ÷ 4 = ?", "choices": ["6", "7", "8", "9"], "answer": 2 },
+      { "q": "Which multiplication fact checks 45 ÷ 5 = 9?", "choices": ["9 × 5 = 45", "5 × 5 = 25", "9 × 9 = 81", "45 × 9 = 5"], "answer": 0 },
+      { "q": "What is the remainder in 29 ÷ 4?", "choices": ["1", "2", "3", "4"], "answer": 1 },
+      { "q": "Which is a factor of 36?", "choices": ["5", "6", "7", "11"], "answer": 1 },
+      { "q": "Prime factorization of 30 is…", "choices": ["2 × 3 × 5", "3 × 5 × 5", "6 × 5", "2 × 15"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "81 ÷ 9 = ?", "choices": ["8", "9", "7", "6"], "answer": 1 },
+      { "q": "56 ÷ 8 = ?", "choices": ["6", "7", "8", "9"], "answer": 1 },
+      { "q": "Find the remainder: 31 ÷ 5", "choices": ["1", "2", "3", "4"], "answer": 0 },
+      { "q": "Factor pair of 24", "choices": ["4 & 8", "5 & 6", "3 & 7", "2 & 10"], "answer": 0 },
+      { "q": "Which is NOT prime?", "choices": ["2", "5", "9", "11"], "answer": 2 },
+      { "q": "72 ÷ 6 = ?", "choices": ["12", "11", "10", "9"], "answer": 0 },
+      { "q": "Smallest factor of every number greater than 1", "choices": ["1", "2", "Itself", "0"], "answer": 1 },
+      { "q": "42 has how many factors?", "choices": ["4", "6", "8", "10"], "answer": 2 }
+    ]
+  },
+  {
+    "grade": 5,
+    "topic": "Fun with Fractions",
+    "lessonMarkdown": "## Fun with Fractions 🧁🐈‍⬛\nFractions name parts of a whole. In 3⁄4, the **numerator** (3) counts the eaten cupcakes; the **denominator** (4) is how many existed. Equivalent fractions taste the same size: 1⁄2 = 2⁄4 = 4⁄8. To add like denominators, just add tops: 3⁄8 + 2⁄8 = 5⁄8. For unlike ones, find a common denominator first (cat bowls must match!). Mixed numbers combine wholes and fractions (2 1⁄3). Simplify whenever possible so answers stay neat.",
+    "mcq": [
+      { "q": "Which is equivalent to 1⁄2?", "choices": ["2⁄6", "2⁄4", "3⁄5", "4⁄6"], "answer": 1 },
+      { "q": "3⁄8 + 2⁄8 = ?", "choices": ["5⁄16", "5⁄8", "6⁄8", "1"], "answer": 1 },
+      { "q": "Simplify 4⁄12", "choices": ["1⁄2", "1⁄3", "2⁄3", "3⁄4"], "answer": 1 },
+      { "q": "What is the denominator in 5⁄9?", "choices": ["5", "9", "14", "4"], "answer": 1 },
+      { "q": "2 1⁄4 is a…", "choices": ["Proper fraction", "Improper fraction", "Mixed number", "Whole number"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "Add: 1⁄3 + 1⁄3 =", "choices": ["1⁄6", "2⁄3", "1⁄3", "1"], "answer": 1 },
+      { "q": "Which is larger?", "choices": ["3⁄5", "2⁄5", "Equal", "Not sure"], "answer": 0 },
+      { "q": "Convert 9⁄4 to mixed number", "choices": ["2 1⁄4", "2 2⁄4", "2 1⁄2", "3 1⁄4"], "answer": 0 },
+      { "q": "Find a common denominator for 2⁄3 and 1⁄4", "choices": ["3", "4", "6", "12"], "answer": 3 },
+      { "q": "4⁄8 simplifies to…", "choices": ["1⁄2", "2⁄4", "Both A & B", "None"], "answer": 2 },
+      { "q": "Subtract: 7⁄10 − 3⁄10 =", "choices": ["3⁄10", "4⁄10", "5⁄10", "6⁄10"], "answer": 1 },
+      { "q": "Which is improper?", "choices": ["5⁄3", "3⁄5", "2 1⁄2", "1"], "answer": 0 },
+      { "q": "Multiply: 2⁄3 × 3⁄4 =", "choices": ["6⁄12", "6⁄7", "5⁄12", "9⁄12"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 6,
+    "topic": "Decimals & Ratios",
+    "lessonMarkdown": "## Decimals & Ratios 🐟🐟\nDecimals show parts of ten. 0.5 is the same as 1⁄2. Line digits up by the decimal point when adding or subtracting. To multiply, ignore the dot, multiply, then count total decimal places. Ratios compare quantities: if 3 black cats play with 2 white cats, the ratio is 3 : 2. Proportions keep ratios equal—scale recipes for more hungry felines! Convert between fractions, decimals, and percentages to become a flexible cat‑culator.",
+    "mcq": [
+      { "q": "0.7 as a fraction is…", "choices": ["7⁄10", "7⁄100", "1⁄7", "70"], "answer": 0 },
+      { "q": "Add: 3.25 + 1.4 =", "choices": ["4.29", "4.55", "4.65", "4.75"], "answer": 2 },
+      { "q": "Multiply: 0.3 × 0.2 =", "choices": ["0.06", "0.6", "0.003", "0.06 (6 %)"], "answer": 0 },
+      { "q": "The ratio 4 : 5 means…", "choices": ["4 + 5", "4 out of 9", "4 to 5", "5 to 4"], "answer": 2 },
+      { "q": "45 % as a decimal is…", "choices": ["0.45", "4.5", "0.045", "45"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "Convert 0.125 to fraction", "choices": ["1⁄8", "1⁄4", "1⁄2", "1⁄6"], "answer": 0 },
+      { "q": "2.7 − 0.83 =", "choices": ["1.87", "1.97", "1.84", "1.90"], "answer": 1 },
+      { "q": "80 % equals…", "choices": ["0.8", "0.08", "8", "8 %"], "answer": 0 },
+      { "q": "Simplify ratio 6 : 9", "choices": ["2 : 3", "3 : 2", "1 : 2", "2 : 1"], "answer": 0 },
+      { "q": "0.04 × 10 =", "choices": ["0.4", "0.04", "4", "0.004"], "answer": 0 },
+      { "q": "Which decimal is largest?", "choices": ["0.98", "0.9", "0.899", "0.908"], "answer": 0 },
+      { "q": "Convert 3⁄5 to percent", "choices": ["20 %", "40 %", "60 %", "80 %"], "answer": 2 },
+      { "q": "True or False: 1 : 2 = 2 : 4", "choices": ["True", "False", "Sometimes", "Not sure"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 7,
+    "topic": "Integers & Expressions",
+    "lessonMarkdown": "## Integers & Expressions ➕➖🐾\nIntegers include negatives: −5 is 5 steps below zero. When adding integers, move right for positives, left for negatives. Subtracting a negative is like adding its opposite. Evaluate algebraic expressions by substituting values: for 3x − 2, if x = 4, answer is 10. Use the Order of Operations (PEMDAS) so exponents and multiplication happen before addition. Keep a tidy workspace to avoid sign‑slip catastrophes!",
+    "mcq": [
+      { "q": "−3 + 7 = ?", "choices": ["−10", "4", "10", "−4"], "answer": 1 },
+      { "q": "What is −8 − (−3)?", "choices": ["−11", "−5", "5", "11"], "answer": 1 },
+      { "q": "Evaluate 2x + 5 when x = 3", "choices": ["11", "10", "9", "8"], "answer": 0 },
+      { "q": "Which rule comes first in PEMDAS?", "choices": ["Addition", "Multiplication", "Exponents", "Subtraction"], "answer": 2 },
+      { "q": "Simplify: 4(2 + 3)", "choices": ["20", "14", "24", "18"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "Absolute value of −12", "choices": ["12", "−12", "0", "1"], "answer": 0 },
+      { "q": "−7 + (−4) =", "choices": ["−3", "3", "−11", "11"], "answer": 2 },
+      { "q": "Evaluate 5y − 2 when y = 2", "choices": ["8", "10", "12", "6"], "answer": 0 },
+      { "q": "−15 ÷ 3 =", "choices": ["−5", "5", "−45", "45"], "answer": 0 },
+      { "q": "2^3 × 3 =", "choices": ["24", "18", "16", "11"], "answer": 0 },
+      { "q": "Which is equivalent to 3(a + b)?", "choices": ["3a + b", "a + 3b", "3a + 3b", "a + b + 3"], "answer": 2 },
+      { "q": "Combine like terms: 4x + 3x − 2", "choices": ["7x − 2", "7x + 2", "x − 2", "7x"], "answer": 0 },
+      { "q": "Is 0 a positive integer?", "choices": ["Yes", "No", "Sometimes", "Only on weekends"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 8,
+    "topic": "Linear Equations & Geometry",
+    "lessonMarkdown": "## Linear Equations & Geometry 📈🐈\nA linear equation like y = 2x + 1 graphs a straight line; **slope** (m) = 2 tells how steep the cat walkway rises, and **y‑intercept** = 1 shows where it crosses the y‑axis. Solve systems by finding where lines meet (the purr‑fect intersection). The Pythagorean Theorem, a² + b² = c², finds the ladder length for cats climbing corner walls. Understand functions: each x (input) gives exactly one y (output).",
+    "mcq": [
+      { "q": "Slope of y = 3x − 4", "choices": ["−4", "3", "4", "0"], "answer": 1 },
+      { "q": "Solve for x: 2x + 5 = 11", "choices": ["2", "3", "4", "5"], "answer": 1 },
+      { "q": "In y = mx + b, b represents…", "choices": ["Slope", "Origin", "x‑value", "y‑intercept"], "answer": 3 },
+      { "q": "Hypotenuse of right triangle with legs 6 and 8", "choices": ["10", "12", "14", "16"], "answer": 0 },
+      { "q": "Which set is a function?", "choices": ["{(1,2),(1,3)}", "{(2,3),(3,3)}", "{(4,5),(4,5)}", "{(0,1),(1,0),(0,1)}"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "Slope‑intercept form", "choices": ["y = a + bx", "y = mx + b", "ax + by = c", "y − y₁ = m(x − x₁)"], "answer": 1 },
+      { "q": "Distance between (0,0) and (3,4)", "choices": ["4", "5", "6", "7"], "answer": 1 },
+      { "q": "Solve: 3x − 2 = 16", "choices": ["5", "6", "6⅔", "7"], "answer": 3 },
+      { "q": "If lines are parallel, slopes are…", "choices": ["Equal", "Opposite", "Reciprocal", "Zero"], "answer": 0 },
+      { "q": "Area of a circle with r = 3 (π ≈ 3.14)", "choices": ["9.42", "18.84", "28.26", "31.4"], "answer": 2 },
+      { "q": "Is (4, 9) a solution of y = 2x + 1?", "choices": ["Yes", "No", "Sometimes", "Need more info"], "answer": 1 },
+      { "q": "Pythagorean triples include…", "choices": ["5‑12‑13", "6‑7‑9", "8‑9‑12", "10‑10‑10"], "answer": 0 },
+      { "q": "Standard form Ax + By = C, A should not be…", "choices": ["0", "Positive", "Negative", "Fraction"], "answer": 0 }
+    ]
+  }
+] 
