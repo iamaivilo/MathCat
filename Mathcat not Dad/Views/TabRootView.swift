@@ -11,6 +11,11 @@ struct TabRootView: View {
                     Label("Lesson", systemImage: "book.fill")
                 }
             
+            GameTabView()
+                .tabItem {
+                    Label("Game", systemImage: "gamecontroller.fill")
+                }
+            
             ProfileTabView()
                 .tabItem {
                     Label("Profile", systemImage: "person.fill")
