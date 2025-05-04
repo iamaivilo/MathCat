@@ -22,6 +22,94 @@
     ]
   },
   {
+    "grade": 0,
+    "topic": "Shapes with Whiskers",
+    "lessonMarkdown": "# Shapes with Whiskers 🟦🐾\n\nCats love to nap in all sorts of shapes!\n\n- A circle is like a curled-up cat.\n- Squares and rectangles are favorite box shapes.\n- Triangles are pointy cat ears!\n\n> **Meowtip:** Find shapes around your house and match them to cat poses!\n\n**Ready to spot some shapes?**",
+    "mcq": [
+      { "q": "Which is round like a cat curled up?", "choices": ["Circle", "Square", "Triangle", "Rectangle"], "answer": 0 },
+      { "q": "Which has 3 sides?", "choices": ["Circle", "Square", "Triangle", "Rectangle"], "answer": 2 },
+      { "q": "Which is a box shape?", "choices": ["Circle", "Square", "Triangle", "Oval"], "answer": 1 },
+      { "q": "Cat ears look like...", "choices": ["Squares", "Triangles", "Circles", "Rectangles"], "answer": 1 },
+      { "q": "Which has 4 sides?", "choices": ["Circle", "Triangle", "Square", "Oval"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "How many sides does a triangle have?", "choices": ["2", "3", "4", "5"], "answer": 1 },
+      { "q": "Which is NOT a shape?", "choices": ["Cat", "Circle", "Square", "Triangle"], "answer": 0 },
+      { "q": "Which shape rolls easily?", "choices": ["Circle", "Square", "Triangle", "Rectangle"], "answer": 0 },
+      { "q": "Which has corners?", "choices": ["Circle", "Square", "Oval", "None"], "answer": 1 },
+      { "q": "Which is long and has 4 sides?", "choices": ["Rectangle", "Circle", "Triangle", "Square"], "answer": 0 },
+      { "q": "How many corners does a square have?", "choices": ["2", "3", "4", "5"], "answer": 2 },
+      { "q": "Which is shaped like a cat's food bowl?", "choices": ["Circle", "Square", "Triangle", "Rectangle"], "answer": 0 },
+      { "q": "Which is shaped like a window?", "choices": ["Square", "Circle", "Triangle", "Oval"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 0,
+    "topic": "Comparing Sizes",
+    "lessonMarkdown": "# Comparing Sizes 📏🐱\n\nSome cats are big, some are small!\n\n- When we say **more**, we mean a bigger group of cats.\n- When we say **less**, we mean a smaller group.\n- When we say **equal**, both groups have the same amount.\n\n> **Meowtip:** Use your paws to count each group and compare!\n\n**Ready to compare?**",
+    "mcq": [
+      { "q": "Which is more: 5 cats or 3 cats?", "choices": ["5 cats", "3 cats", "Same", "Not sure"], "answer": 0 },
+      { "q": "Which has less yarn: 2 balls or 4 balls?", "choices": ["2 balls", "4 balls", "Same", "Not sure"], "answer": 0 },
+      { "q": "Are 5 kittens and 5 kittens equal?", "choices": ["Yes", "No", "Maybe", "Not sure"], "answer": 0 },
+      { "q": "Which shows more dots? 🔴🔴🔴 or 🔴🔴", "choices": ["First group", "Second group", "Same", "Can't tell"], "answer": 0 },
+      { "q": "Which is less: 7 or 9?", "choices": ["7", "9", "Same", "Not sure"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "Which has more? 🐱🐱🐱🐱 or 🐱🐱", "choices": ["First group", "Second group", "Same", "Can't tell"], "answer": 0 },
+      { "q": "Which has less? 🐟🐟🐟 or 🐟🐟🐟🐟🐟", "choices": ["First group", "Second group", "Same", "Can't tell"], "answer": 0 },
+      { "q": "Are 4 mice and 4 mice equal?", "choices": ["Yes", "No", "Maybe", "Not sure"], "answer": 0 },
+      { "q": "What comes next? 1, 2, 3, ___", "choices": ["0", "3", "4", "5"], "answer": 2 },
+      { "q": "How many circles? ⭕⭕⭕", "choices": ["2", "3", "4", "5"], "answer": 1 },
+      { "q": "Which is more: 8 or 6?", "choices": ["8", "6", "Same", "Not sure"], "answer": 0 },
+      { "q": "Which is less: 1 or 4?", "choices": ["1", "4", "Same", "Not sure"], "answer": 0 },
+      { "q": "If you have 3 treats and get 1 more, how many now?", "choices": ["3", "4", "5", "2"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 0,
+    "topic": "Patterns & Sequences",
+    "lessonMarkdown": "# Patterns & Sequences 🔄🐱\n\nCats love patterns! A pattern repeats over and over.\n\n- Find what comes next by looking at what repeats.\n- Patterns can be with colors, shapes, or numbers.\n- Try saying patterns out loud: 'red, blue, red, blue...'\n\n> **Meowtip:** Clap or tap to feel the rhythm of patterns!\n\n**Ready to spot patterns?**",
+    "mcq": [
+      { "q": "What comes next? 🐱🐶🐱🐶🐱___", "choices": ["🐱", "🐶", "🐰", "🐭"], "answer": 1 },
+      { "q": "Continue: 2, 4, 6, ___", "choices": ["7", "8", "9", "10"], "answer": 1 },
+      { "q": "What's the pattern? 🔴🔵🔴🔵", "choices": ["Colors alternate", "Same color", "Random", "No pattern"], "answer": 0 },
+      { "q": "What's missing? 🟥⭐🟥___🟥⭐", "choices": ["🟥", "⭐", "🟨", "⚪"], "answer": 1 },
+      { "q": "Continue: 5, 10, 15, ___", "choices": ["16", "18", "20", "25"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "What comes next? 🐾👣🐾👣🐾", "choices": ["🐾", "👣", "👋", "🦶"], "answer": 1 },
+      { "q": "Continue: 1, 3, 5, ___", "choices": ["6", "7", "8", "9"], "answer": 1 },
+      { "q": "What's missing? 🔴⚪🔵🔴___🔵", "choices": ["🔴", "⚪", "🔵", "⚫"], "answer": 1 },
+      { "q": "What's the pattern? ▲●▲●", "choices": ["Triangle, circle", "Same shape", "Growing", "No pattern"], "answer": 0 },
+      { "q": "Continue: 2, 4, 6, 8, ___", "choices": ["9", "10", "11", "12"], "answer": 1 },
+      { "q": "What comes next? 🐈🐈‍⬛🐈🐈‍⬛", "choices": ["🐈", "🐈‍⬛", "🐕", "🦁"], "answer": 0 },
+      { "q": "Continue: 10, 20, 30, ___", "choices": ["35", "40", "45", "50"], "answer": 1 },
+      { "q": "What's missing? 🟦🟨🟦___🟦🟨", "choices": ["🟦", "🟨", "🟩", "🟥"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 0,
+    "topic": "Colors & Sorting",
+    "lessonMarkdown": "# Colors & Sorting 🌈🐱\n\nCats like things neat and tidy! Sorting means putting similar things together.\n\n- Group items by the same color, shape, or size.\n- Red toys in one pile, blue in another!\n- Sorting helps us organize and find patterns.\n\n> **Meowtip:** Try sorting your toys or snacks at home!\n\n**Ready to sort?**",
+    "mcq": [
+      { "q": "Which doesn't belong? 🔴🔴🔴🔵", "choices": ["First red", "Second red", "Third red", "Blue"], "answer": 3 },
+      { "q": "Sort by color: Where does 🟢 go?", "choices": ["With 🔴🔴", "With 🟢🟢", "With 🔵🔵", "Alone"], "answer": 1 },
+      { "q": "Which is different? 🐈🐈🐕🐈", "choices": ["First cat", "Second cat", "Dog", "Third cat"], "answer": 2 },
+      { "q": "What color is a banana?", "choices": ["Red", "Yellow", "Green", "Purple"], "answer": 1 },
+      { "q": "Sort by size: Where does a mouse go?", "choices": ["With elephants", "With cats", "With ants", "With horses"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "Which doesn't belong? 🟥🟥🟧🟥", "choices": ["First red", "Second red", "Orange", "Third red"], "answer": 2 },
+      { "q": "Where does 🔵 go?", "choices": ["With 🔴🔴", "With 🔵🔵", "With 🟢🟢", "With 🟣🟣"], "answer": 1 },
+      { "q": "Which is different? ⭐⭐⭐✨", "choices": ["First star", "Second star", "Third star", "Sparkle"], "answer": 3 },
+      { "q": "What color is grass?", "choices": ["Brown", "Yellow", "Green", "Blue"], "answer": 2 },
+      { "q": "Which belongs together?", "choices": ["🍎 and 🍊", "🍎 and 🍓", "🍎 and 🥕", "🍎 and 🍌"], "answer": 1 },
+      { "q": "Where does 🐱 go?", "choices": ["With 🐕", "With 🐄", "With 🐈", "With 🐁"], "answer": 2 },
+      { "q": "What color is the sky?", "choices": ["Green", "Blue", "Red", "Purple"], "answer": 1 },
+      { "q": "Which doesn't belong in a rainbow?", "choices": ["Red", "Black", "Blue", "Green"], "answer": 1 }
+    ]
+  },
+  {
     "grade": 1,
     "topic": "Add & Subtract with Kittens",
     "lessonMarkdown": "# Add & Subtract with Kittens ➕➖\n\nWhen kittens gather, we **add**; when they scamper off, we **subtract**.\n\n- Picture `7` kittens. If `3` more leap onto the sofa, that's `7 + 3`. We get **10**!\n- If `4` kittens sneak away for snacks, that's `10 - 4 = 6`.\n\n> _Notice how we move forward on the number line to add and backward to subtract._\n\nTry clapping for every number you count up or down.\n\n**Keep mental pictures of cat groups to build strong number sense.**\n\n_Meowtip:_ Practice with your own toys or snacks!\n\n**Ready to pounce into practice?** 😺",
@@ -41,6 +129,94 @@
       { "q": "20 − 0 = ?", "choices": ["20", "0", "19", "21"], "answer": 0 },
       { "q": "11 + 4 = ?", "choices": ["14", "15", "16", "17"], "answer": 1 },
       { "q": "Which fact is true?", "choices": ["6 + 8 = 13", "3 + 7 = 10", "5 + 9 = 13", "12 − 5 = 4"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 1,
+    "topic": "Place Value Paws",
+    "lessonMarkdown": "# Place Value Paws 🐾🔢\n\nEach cat has a special spot!\n\n- In 23, the 2 is in the tens place (2 groups of 10), the 3 is in the ones place.\n- 45 = 4 tens and 5 ones.\n- Use cat toys to group by tens and ones.\n\n> **Meowtip:** Stack toys in groups of 10 to see how numbers build up!\n\n**Ready to count by place?**",
+    "mcq": [
+      { "q": "In 14, what does the 1 mean?", "choices": ["1 ten", "1 one", "4 tens", "4 ones"], "answer": 0 },
+      { "q": "In 27, what does the 7 mean?", "choices": ["7 tens", "7 ones", "2 tens", "2 ones"], "answer": 1 },
+      { "q": "Which number has 3 tens and 2 ones?", "choices": ["23", "32", "12", "21"], "answer": 1 },
+      { "q": "What is the value of 5 in 58?", "choices": ["5", "50", "8", "58"], "answer": 1 },
+      { "q": "Which is the tens place in 46?", "choices": ["4", "6", "40", "60"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "In 39, what does the 3 mean?", "choices": ["3 ones", "3 tens", "9 ones", "9 tens"], "answer": 1 },
+      { "q": "Which number has 2 tens and 5 ones?", "choices": ["25", "52", "15", "12"], "answer": 0 },
+      { "q": "What is the value of 6 in 67?", "choices": ["6", "60", "7", "67"], "answer": 1 },
+      { "q": "Which is the ones place in 81?", "choices": ["8", "1", "80", "18"], "answer": 1 },
+      { "q": "In 54, what does the 4 mean?", "choices": ["4 ones", "4 tens", "5 ones", "5 tens"], "answer": 0 },
+      { "q": "Which number has 4 tens and 0 ones?", "choices": ["40", "4", "10", "14"], "answer": 0 },
+      { "q": "What is the value of 2 in 28?", "choices": ["2", "20", "8", "28"], "answer": 1 },
+      { "q": "Which is the tens place in 73?", "choices": ["7", "3", "70", "37"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 1,
+    "topic": "Word Problems with Cats",
+    "lessonMarkdown": "# Word Problems with Cats 📝🐱\n\nCats love solving puzzles, and so will you!\n\n- Word problems tell a story with numbers in it.\n- Look for clue words: 'more' often means add, 'fewer' means subtract.\n- Draw a picture of the problem to help you solve it.\n\n> **Meowtip:** Ask yourself: \"Am I putting groups together or taking some away?\"\n\n**Ready to solve cat stories?**",
+    "mcq": [
+      { "q": "3 cats were napping. 2 more joined. How many cats now?", "choices": ["1", "3", "5", "6"], "answer": 2 },
+      { "q": "5 kittens playing. 2 went home. How many left?", "choices": ["2", "3", "5", "7"], "answer": 1 },
+      { "q": "I have 4 treats in each hand. How many total?", "choices": ["4", "6", "8", "10"], "answer": 2 },
+      { "q": "6 cats at the window. 3 ran away. How many still there?", "choices": ["2", "3", "6", "9"], "answer": 1 },
+      { "q": "2 black cats + 5 orange cats = ?", "choices": ["3", "5", "7", "8"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "4 cats were eating. 3 more came. How many cats now?", "choices": ["1", "4", "7", "10"], "answer": 2 },
+      { "q": "8 mice minus 3 mice equals how many mice?", "choices": ["3", "5", "8", "11"], "answer": 1 },
+      { "q": "3 bowls with 2 treats each. How many treats total?", "choices": ["5", "6", "8", "9"], "answer": 1 },
+      { "q": "10 kittens playing. Half went to sleep. How many awake?", "choices": ["5", "6", "8", "10"], "answer": 0 },
+      { "q": "I had 7 toys. I gave 4 away. How many left?", "choices": ["3", "4", "7", "11"], "answer": 0 },
+      { "q": "2 cats on the bed, 3 on the floor. How many cats total?", "choices": ["2", "3", "5", "6"], "answer": 2 },
+      { "q": "9 treats minus 6 treats equals how many treats?", "choices": ["2", "3", "4", "5"], "answer": 1 },
+      { "q": "If you have 3 groups of 3 cats, how many cats total?", "choices": ["6", "8", "9", "12"], "answer": 2 }
+    ]
+  },
+  {
+    "grade": 1,
+    "topic": "Counting by 2s, 5s, 10s",
+    "lessonMarkdown": "# Counting by 2s, 5s, 10s 🔢🐱\n\nSmart cats learn to count faster!\n\n- Skip counting helps you count quickly.\n- Try counting paw pairs: 2, 4, 6, 8...\n- Count nickels: 5, 10, 15, 20...\n- Count by tens: 10, 20, 30, 40...\n\n> **Meowtip:** Clap your hands or tap your feet to feel the rhythm of skip counting!\n\n**Ready to skip count?**",
+    "mcq": [
+      { "q": "Count by 2s: 2, 4, 6, ___", "choices": ["7", "8", "9", "10"], "answer": 1 },
+      { "q": "Count by 5s: 5, 10, 15, ___", "choices": ["16", "18", "20", "25"], "answer": 2 },
+      { "q": "Count by 10s: 10, 20, 30, ___", "choices": ["35", "40", "45", "50"], "answer": 1 },
+      { "q": "How many ears on 3 cats counting by 2s?", "choices": ["3", "4", "6", "9"], "answer": 2 },
+      { "q": "How many fingers on 2 hands counting by 5s?", "choices": ["5", "10", "15", "20"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "Count by 2s: 2, 4, 6, 8, ___", "choices": ["9", "10", "11", "12"], "answer": 1 },
+      { "q": "Count by 5s: 5, 10, 15, 20, ___", "choices": ["21", "22", "25", "30"], "answer": 2 },
+      { "q": "Count by 10s: 10, 20, 30, 40, ___", "choices": ["45", "50", "55", "60"], "answer": 1 },
+      { "q": "How many paws on 3 cats?", "choices": ["6", "9", "12", "15"], "answer": 2 },
+      { "q": "Count by 2s: 2, 4, ___, 8, 10", "choices": ["5", "6", "7", "9"], "answer": 1 },
+      { "q": "Count by 10s: ___, 20, 30, 40", "choices": ["5", "10", "15", "25"], "answer": 1 },
+      { "q": "Count by 5s: 5, ___, 15, 20", "choices": ["6", "8", "10", "12"], "answer": 2 },
+      { "q": "How many eyes on 5 cats?", "choices": ["5", "8", "10", "15"], "answer": 2 }
+    ]
+  },
+  {
+    "grade": 1,
+    "topic": "Telling Time",
+    "lessonMarkdown": "# Telling Time ⏰🐱\n\nCats always know when it's dinner time!\n\n- Clocks have numbers 1 through 12.\n- The short hand shows the hour.\n- The long hand shows the minutes.\n- When the long hand points to 12, it's o'clock time.\n\n> **Meowtip:** Practice reading the clock at different times during your day!\n\n**Ready to tell time?**",
+    "mcq": [
+      { "q": "Which is the hour hand?", "choices": ["Long hand", "Short hand", "Red hand", "Blue hand"], "answer": 1 },
+      { "q": "What time is it when the short hand points to 3 and long hand to 12?", "choices": ["12:00", "3:00", "3:30", "12:30"], "answer": 1 },
+      { "q": "What time is bedtime for most kids?", "choices": ["3:00", "7:00", "8:00", "12:00"], "answer": 2 },
+      { "q": "If school starts at 8:00, what does the short hand point to?", "choices": ["8", "12", "6", "3"], "answer": 0 },
+      { "q": "What time is it when both hands point to 12?", "choices": ["Midnight or Noon", "6:00", "3:00", "9:00"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "Which hand moves faster?", "choices": ["Hour hand", "Minute hand", "Same speed", "Neither"], "answer": 1 },
+      { "q": "What time is it when the short hand is on 5 and long hand on 12?", "choices": ["12:05", "5:00", "5:12", "12:50"], "answer": 1 },
+      { "q": "How many hours are in a day?", "choices": ["10", "12", "24", "60"], "answer": 2 },
+      { "q": "What time is usually lunchtime?", "choices": ["8:00", "12:00", "3:00", "7:00"], "answer": 1 },
+      { "q": "What time is it when the short hand is between 7 and 8 and long hand on 6?", "choices": ["7:30", "6:30", "7:06", "8:07"], "answer": 0 },
+      { "q": "How many minutes are in an hour?", "choices": ["12", "24", "60", "100"], "answer": 2 },
+      { "q": "What time is it when the short hand is on 9 and long hand on 12?", "choices": ["12:09", "9:00", "9:12", "12:45"], "answer": 1 },
+      { "q": "If bedtime is 8:00, what number does the short hand point to?", "choices": ["12", "8", "4", "6"], "answer": 1 }
     ]
   },
   {
@@ -66,6 +242,94 @@
     ]
   },
   {
+    "grade": 2,
+    "topic": "Intro to Multiplication",
+    "lessonMarkdown": "# Intro to Multiplication 🐱✖️\n\nMultiplication is a speedy way to add the same number many times!\n\n- `3 × 4` means `4 + 4 + 4` (adding 4 three times)\n- Think of it as groups: `3` groups with `4` cats in each group\n- Arrays help us see multiplication: 3 rows with 4 cats in each row\n\n> **Meowtip:** Use counters or draw pictures to see how multiplication works!\n\n**Ready to multiply?**",
+    "mcq": [
+      { "q": "What is 2 × 3?", "choices": ["2", "3", "5", "6"], "answer": 3 },
+      { "q": "Which shows 4 × 2?", "choices": ["4 + 2", "4 + 4", "2 + 2 + 2 + 2", "2 × 4"], "answer": 2 },
+      { "q": "How many cats in 3 groups of 5 cats?", "choices": ["8", "10", "15", "20"], "answer": 2 },
+      { "q": "What is 5 × 1?", "choices": ["0", "1", "5", "6"], "answer": 2 },
+      { "q": "What does 3 × 4 mean?", "choices": ["3 + 4", "4 + 4 + 4", "3 + 3 + 3 + 3", "7"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "What is 3 × 3?", "choices": ["6", "9", "12", "15"], "answer": 1 },
+      { "q": "What is 4 × 5?", "choices": ["9", "15", "20", "25"], "answer": 2 },
+      { "q": "Which is the same as 2 × 6?", "choices": ["2 + 6", "6 + 6", "2 + 2 + 2 + 2 + 2 + 2", "8"], "answer": 1 },
+      { "q": "How many paws on 4 cats?", "choices": ["8", "12", "16", "20"], "answer": 2 },
+      { "q": "What is 2 × 7?", "choices": ["9", "12", "14", "16"], "answer": 2 },
+      { "q": "What is 6 × 2?", "choices": ["8", "10", "12", "14"], "answer": 2 },
+      { "q": "If one cat has 2 eyes, how many eyes do 5 cats have?", "choices": ["7", "8", "10", "12"], "answer": 2 },
+      { "q": "What is 0 × 8?", "choices": ["0", "8", "80", "16"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 2,
+    "topic": "Even & Odd Numbers",
+    "lessonMarkdown": "# Even & Odd Numbers 🐱🐱\n\nCats can help us learn about even and odd numbers!\n\n- **Even numbers** can be split into pairs with no leftovers: 2, 4, 6, 8...\n- **Odd numbers** have one leftover when you make pairs: 1, 3, 5, 7...\n- You can check by dividing by 2: even numbers have no remainder!\n\n> **Meowtip:** Think of even numbers as cats sitting in pairs, with odd numbers having one cat without a partner.\n\n**Ready to find the even and odd numbers?**",
+    "mcq": [
+      { "q": "Is 6 even or odd?", "choices": ["Even", "Odd", "Neither", "Both"], "answer": 0 },
+      { "q": "Is 7 even or odd?", "choices": ["Even", "Odd", "Neither", "Both"], "answer": 1 },
+      { "q": "Which number is odd?", "choices": ["2", "4", "5", "8"], "answer": 2 },
+      { "q": "Which number is even?", "choices": ["3", "5", "7", "10"], "answer": 3 },
+      { "q": "What comes after 43?", "choices": ["42", "43", "44", "45"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "Is 12 even or odd?", "choices": ["Even", "Odd", "Neither", "Both"], "answer": 0 },
+      { "q": "Is 25 even or odd?", "choices": ["Even", "Odd", "Neither", "Both"], "answer": 1 },
+      { "q": "Which number is odd?", "choices": ["6", "8", "10", "11"], "answer": 3 },
+      { "q": "Which number is even?", "choices": ["14", "15", "17", "19"], "answer": 0 },
+      { "q": "If you add an odd and an even number, is the result even or odd?", "choices": ["Always even", "Always odd", "Sometimes even", "Can't tell"], "answer": 1 },
+      { "q": "If you add two odd numbers, is the result even or odd?", "choices": ["Always even", "Always odd", "Sometimes even", "Can't tell"], "answer": 0 },
+      { "q": "Is 0 even or odd?", "choices": ["Even", "Odd", "Neither", "Both"], "answer": 0 },
+      { "q": "Which set contains only even numbers?", "choices": ["2, 4, 6", "1, 3, 5", "2, 3, 4", "5, 6, 7"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 2,
+    "topic": "Measuring Length",
+    "lessonMarkdown": "# Measuring Length 📏🐱\n\nCats love to stretch out and measure their length!\n\n- We can measure length in **inches**, **feet**, or **centimeters**\n- Rulers and measuring tapes help us find exact lengths\n- Estimate first, then measure to check\n\n> **Meowtip:** A cat's whisker is about an inch long! Try using cat-sized units to estimate.\n\n**Ready to measure?**",
+    "mcq": [
+      { "q": "Which unit would you use to measure a cat's tail?", "choices": ["Inches", "Miles", "Tons", "Gallons"], "answer": 0 },
+      { "q": "About how long is a pencil?", "choices": ["6 inches", "6 feet", "6 yards", "6 miles"], "answer": 0 },
+      { "q": "Which is longer?", "choices": ["1 inch", "1 foot", "They're equal", "Can't compare"], "answer": 1 },
+      { "q": "How many inches are in 1 foot?", "choices": ["6", "10", "12", "24"], "answer": 2 },
+      { "q": "What tool helps us measure length?", "choices": ["Scale", "Clock", "Ruler", "Thermometer"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "Which is longest?", "choices": ["1 inch", "1 foot", "1 centimeter", "1 millimeter"], "answer": 1 },
+      { "q": "About how tall is a second-grade student?", "choices": ["3-4 feet", "5-6 feet", "8-9 feet", "10-11 feet"], "answer": 0 },
+      { "q": "Which unit would you use to measure the length of a classroom?", "choices": ["Inches", "Feet", "Miles", "Pounds"], "answer": 1 },
+      { "q": "About how long is a cat from nose to tail?", "choices": ["1-2 feet", "3-4 feet", "6-7 feet", "10-12 feet"], "answer": 0 },
+      { "q": "If a cat is 18 inches long, how many feet is that?", "choices": ["1 foot", "1.5 feet", "2 feet", "2.5 feet"], "answer": 1 },
+      { "q": "Which is shorter?", "choices": ["A paperclip", "A book", "A desk", "A door"], "answer": 0 },
+      { "q": "Which unit would you use to measure the distance between two cities?", "choices": ["Inches", "Feet", "Yards", "Miles"], "answer": 3 },
+      { "q": "How many centimeters are in 1 inch (approximately)?", "choices": ["1", "2.54", "10", "100"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 2,
+    "topic": "Time & Money",
+    "lessonMarkdown": "# Time & Money 🕒💰\n\nCats don't carry money, but you will!\n\n- Coins have different values: penny (1¢), nickel (5¢), dime (10¢), quarter (25¢)\n- We can combine coins to make exact amounts\n- Digital clocks show time in hours and minutes\n- There are 60 minutes in an hour and 24 hours in a day\n\n> **Meowtip:** Practice counting coins while timing yourself!\n\n**Ready to learn about time and money?**",
+    "mcq": [
+      { "q": "How much is a nickel worth?", "choices": ["1¢", "5¢", "10¢", "25¢"], "answer": 1 },
+      { "q": "How many minutes are in 1 hour?", "choices": ["30", "45", "60", "100"], "answer": 2 },
+      { "q": "Which is worth more?", "choices": ["3 pennies", "1 nickel", "They're equal", "Can't compare"], "answer": 1 },
+      { "q": "What time is 3:30?", "choices": ["Half past 3", "Quarter past 3", "Quarter to 3", "Half to 3"], "answer": 0 },
+      { "q": "How many nickels equal 25¢?", "choices": ["3", "4", "5", "6"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "How much is a dime worth?", "choices": ["5¢", "10¢", "25¢", "50¢"], "answer": 1 },
+      { "q": "How many hours are in a day?", "choices": ["12", "24", "60", "100"], "answer": 1 },
+      { "q": "Which coins make 30¢?", "choices": ["3 dimes", "6 nickels", "30 pennies", "All of these"], "answer": 3 },
+      { "q": "What time is 15 minutes before 4:00?", "choices": ["3:15", "3:45", "4:15", "4:45"], "answer": 1 },
+      { "q": "How many quarters make a dollar?", "choices": ["2", "3", "4", "5"], "answer": 2 },
+      { "q": "How many nickels equal 1 dime?", "choices": ["2", "3", "4", "5"], "answer": 0 },
+      { "q": "What time is shown: 7:15?", "choices": ["Quarter past 7", "Quarter to 7", "Half past 7", "Half to 7"], "answer": 0 },
+      { "q": "How many pennies are in 1 dollar?", "choices": ["10", "25", "50", "100"], "answer": 3 }
+    ]
+  },
+  {
     "grade": 3,
     "topic": "Multiplication Mania",
     "lessonMarkdown": "# Multiplication Mania ✖️🐾\n\nMultiplication is **speedy addition**!\n\n- `3 × 4` is the same as `4 + 4 + 4`.\n- Picture rows of cats on comfy mats: `3` rows, `4` cats each.\n- Skip-count: `4, 8, 12` to land at **12**.\n\n> **Meowtip:** Facts up to `10 × 10` are your new superpower!\n\nUse arrays, finger tricks, and chanting to memorize.\n\n**Remember:** The _Commutative Rule_: `4 × 3` equals `3 × 4`.\n\n_Meowtip:_ Purr through flash cards daily and watch totals pop into your head!\n\n**Ready to multiply?**",
@@ -85,6 +349,72 @@
       { "q": "Which of these is 72?", "choices": ["8 × 8", "6 × 12", "9 × 8", "7 × 9"], "answer": 2 },
       { "q": "2 × 6 × 3 = ?", "choices": ["18", "24", "30", "36"], "answer": 1 },
       { "q": "True or False: 3 × 5 = 15", "choices": ["True", "False", "Maybe", "Skip"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 3,
+    "topic": "Division Basics",
+    "lessonMarkdown": "# Division Basics ➗🐱\n\nDivision is sharing equally!\n\n- `12 ÷ 3` means sharing 12 items into 3 equal groups\n- Each group gets `4` items\n- Division and multiplication are related: `12 ÷ 3 = 4` because `3 × 4 = 12`\n\n> **Meowtip:** Think of division as splitting treats equally among cat friends.\n\n**Ready to divide?**",
+    "mcq": [
+      { "q": "What is 8 ÷ 2?", "choices": ["2", "4", "6", "10"], "answer": 1 },
+      { "q": "If 12 toys are shared among 3 cats, how many toys does each cat get?", "choices": ["3", "4", "9", "15"], "answer": 1 },
+      { "q": "What is 15 ÷ 3?", "choices": ["3", "5", "12", "18"], "answer": 1 },
+      { "q": "Which shows 20 ÷ 4?", "choices": ["20 - 4", "20 × 4", "20 + 4", "Sharing 20 items into 4 groups"], "answer": 3 },
+      { "q": "What is 9 ÷ 3?", "choices": ["3", "6", "9", "12"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "What is 16 ÷ 4?", "choices": ["2", "4", "8", "12"], "answer": 1 },
+      { "q": "What is 21 ÷ 3?", "choices": ["3", "6", "7", "9"], "answer": 2 },
+      { "q": "What is 18 ÷ 6?", "choices": ["3", "6", "9", "12"], "answer": 0 },
+      { "q": "What fact checks 35 ÷ 5 = 7?", "choices": ["5 + 7 = 12", "5 × 7 = 35", "7 - 5 = 2", "7 ÷ 5 = 35"], "answer": 1 },
+      { "q": "If 24 fish are shared equally among 8 cats, how many fish does each cat get?", "choices": ["3", "4", "6", "8"], "answer": 0 },
+      { "q": "What is 14 ÷ 2?", "choices": ["5", "6", "7", "8"], "answer": 2 },
+      { "q": "What is 20 ÷ 5?", "choices": ["4", "5", "15", "25"], "answer": 0 },
+      { "q": "What is 27 ÷ 9?", "choices": ["3", "9", "18", "36"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 3,
+    "topic": "Fractions Introduction",
+    "lessonMarkdown": "# Fractions Introduction 🍕🐱\n\nCats share pizza using fractions!\n\n- A fraction shows part of a whole\n- The bottom number (denominator) shows how many equal parts\n- The top number (numerator) shows how many parts we have\n- In `1/4`, the pizza is cut into 4 pieces and we have 1 piece\n\n> **Meowtip:** Use paper or pizza to practice cutting into equal parts.\n\n**Ready to explore fractions?**",
+    "mcq": [
+      { "q": "What fraction of this pizza is shaded? 🍕🍕🍕🍕", "choices": ["1/4", "2/4", "3/4", "4/4"], "answer": 0 },
+      { "q": "Which shows 1/3?", "choices": ["□□■", "□■■", "■□□", "■■■"], "answer": 2 },
+      { "q": "In the fraction 3/5, what is the denominator?", "choices": ["3", "5", "8", "15"], "answer": 1 },
+      { "q": "Which fraction shows half?", "choices": ["1/2", "1/3", "2/3", "3/4"], "answer": 0 },
+      { "q": "If a cake is cut into 8 equal pieces and you eat 4 pieces, what fraction did you eat?", "choices": ["1/2", "1/4", "4/8", "8/4"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "What fraction is shaded? ■■□□", "choices": ["1/4", "1/2", "2/4", "3/4"], "answer": 2 },
+      { "q": "Which shows 2/3?", "choices": ["■■□", "■□□", "□■■", "■■■"], "answer": 0 },
+      { "q": "What is the numerator in 5/6?", "choices": ["5", "6", "11", "30"], "answer": 0 },
+      { "q": "Which fraction is larger?", "choices": ["1/2", "1/4", "Equal", "Can't tell"], "answer": 0 },
+      { "q": "What fraction of a day is 12 hours?", "choices": ["1/4", "1/3", "1/2", "2/3"], "answer": 2 },
+      { "q": "If you eat 1/4 of a pizza and then another 1/4, what fraction did you eat altogether?", "choices": ["1/4", "1/2", "2/4", "3/4"], "answer": 1 },
+      { "q": "Which shows 3/4?", "choices": ["■■■□", "■□□□", "□■■■", "■■□□"], "answer": 0 },
+      { "q": "What fraction shows the whole?", "choices": ["1/1", "0/1", "1/0", "0/0"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 3,
+    "topic": "Telling Time",
+    "lessonMarkdown": "# Telling Time ⏰🐱\n\nCats always know when it's dinner time!\n\n- Clocks have numbers 1 through 12.\n- The short hand shows the hour.\n- The long hand shows the minutes.\n- When the long hand points to 12, it's o'clock time.\n\n> **Meowtip:** Practice reading the clock at different times during your day!\n\n**Ready to tell time?**",
+    "mcq": [
+      { "q": "Which is the hour hand?", "choices": ["Long hand", "Short hand", "Red hand", "Blue hand"], "answer": 1 },
+      { "q": "What time is it when the short hand points to 3 and long hand to 12?", "choices": ["12:00", "3:00", "3:30", "12:30"], "answer": 1 },
+      { "q": "What time is bedtime for most kids?", "choices": ["3:00", "7:00", "8:00", "12:00"], "answer": 2 },
+      { "q": "If school starts at 8:00, what does the short hand point to?", "choices": ["8", "12", "6", "3"], "answer": 0 },
+      { "q": "What time is it when both hands point to 12?", "choices": ["Midnight or Noon", "6:00", "3:00", "9:00"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "Which hand moves faster?", "choices": ["Hour hand", "Minute hand", "Same speed", "Neither"], "answer": 1 },
+      { "q": "What time is it when the short hand is on 5 and long hand on 12?", "choices": ["12:05", "5:00", "5:12", "12:50"], "answer": 1 },
+      { "q": "How many hours are in a day?", "choices": ["10", "12", "24", "60"], "answer": 2 },
+      { "q": "What time is usually lunchtime?", "choices": ["8:00", "12:00", "3:00", "7:00"], "answer": 1 },
+      { "q": "What time is it when the short hand is between 7 and 8 and long hand on 6?", "choices": ["7:30", "6:30", "7:06", "8:07"], "answer": 0 },
+      { "q": "How many minutes are in an hour?", "choices": ["12", "24", "60", "100"], "answer": 2 },
+      { "q": "What time is it when the short hand is on 9 and long hand on 12?", "choices": ["12:09", "9:00", "9:12", "12:45"], "answer": 1 },
+      { "q": "If bedtime is 8:00, what number does the short hand point to?", "choices": ["12", "8", "4", "6"], "answer": 1 }
     ]
   },
   {
@@ -110,6 +440,94 @@
     ]
   },
   {
+    "grade": 4,
+    "topic": "Multi-Digit Multiplication",
+    "lessonMarkdown": "# Multi-Digit Multiplication 🔢🐱\n\nBig cats tackle big numbers!\n\n- To multiply larger numbers, break it down into steps\n- When multiplying 35 × 4, first multiply 5 × 4 = 20\n- Then multiply 30 × 4 = 120 and add: 120 + 20 = 140\n- Or use the standard algorithm, multiplying digits and carrying\n\n> **Meowtip:** Align your digits carefully when setting up the problem.\n\n**Ready for bigger multiplications?**",
+    "mcq": [
+      { "q": "What is 24 × 3?", "choices": ["48", "62", "72", "84"], "answer": 2 },
+      { "q": "In 45 × 6, what is 5 × 6?", "choices": ["11", "24", "30", "36"], "answer": 2 },
+      { "q": "What is 32 × 5?", "choices": ["150", "160", "170", "180"], "answer": 1 },
+      { "q": "What do you multiply first in 27 × 4?", "choices": ["2 × 4", "7 × 4", "20 × 4", "4 × 0"], "answer": 1 },
+      { "q": "What is 123 × 2?", "choices": ["146", "224", "246", "346"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "What is 37 × 4?", "choices": ["108", "138", "148", "168"], "answer": 2 },
+      { "q": "What is 52 × 6?", "choices": ["302", "312", "322", "342"], "answer": 1 },
+      { "q": "What is 205 × 3?", "choices": ["515", "605", "615", "715"], "answer": 2 },
+      { "q": "What is 46 × 7?", "choices": ["282", "302", "312", "322"], "answer": 3 },
+      { "q": "In 63 × 5, what is 6 × 5?", "choices": ["25", "30", "35", "40"], "answer": 1 },
+      { "q": "What is 18 × 9?", "choices": ["162", "172", "182", "192"], "answer": 0 },
+      { "q": "What is 74 × 8?", "choices": ["582", "592", "602", "612"], "answer": 1 },
+      { "q": "If one cat eats 42 treats per week, how many treats do 5 cats eat in a week?", "choices": ["200", "210", "220", "230"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 4,
+    "topic": "Fractions & Decimals",
+    "lessonMarkdown": "# Fractions & Decimals 🔟🐱\n\nCats understand parts of a whole!\n\n- Fractions and decimals both show parts of a whole\n- `1/2` as a decimal is `0.5`\n- `1/4` as a decimal is `0.25`\n- To convert a fraction to decimal, divide the top by the bottom\n\n> **Meowtip:** Think of money: 25¢ is both `1/4` of a dollar and `$0.25`!\n\n**Ready to connect fractions and decimals?**",
+    "mcq": [
+      { "q": "What is 1/2 as a decimal?", "choices": ["0.2", "0.5", "1.2", "1.5"], "answer": 1 },
+      { "q": "What is 3/4 as a decimal?", "choices": ["0.25", "0.34", "0.75", "0.80"], "answer": 2 },
+      { "q": "What fraction is equal to 0.25?", "choices": ["1/4", "1/5", "2/5", "3/4"], "answer": 0 },
+      { "q": "What is 0.6 as a fraction?", "choices": ["1/6", "3/5", "6/10", "6/100"], "answer": 2 },
+      { "q": "Which is bigger: 0.7 or 2/3?", "choices": ["0.7", "2/3", "They're equal", "Can't compare"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "What is 1/5 as a decimal?", "choices": ["0.2", "0.25", "0.5", "1.5"], "answer": 0 },
+      { "q": "What is 0.8 as a fraction in simplest form?", "choices": ["4/5", "8/10", "16/20", "4/50"], "answer": 0 },
+      { "q": "What is 3/10 as a decimal?", "choices": ["0.03", "0.3", "0.33", "3.0"], "answer": 1 },
+      { "q": "What fraction is equal to 0.75?", "choices": ["3/4", "7/5", "75/10", "75/100"], "answer": 0 },
+      { "q": "Which is smaller: 0.2 or 1/4?", "choices": ["0.2", "1/4", "They're equal", "Can't compare"], "answer": 0 },
+      { "q": "What is 6/10 as a decimal?", "choices": ["0.06", "0.6", "6.0", "6.10"], "answer": 1 },
+      { "q": "What is 0.4 as a fraction in simplest form?", "choices": ["1/4", "2/5", "4/10", "4/100"], "answer": 1 },
+      { "q": "If a cat sleeps 0.75 of the day, what fraction of the day is that?", "choices": ["3/4", "3/5", "4/5", "7/5"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 4,
+    "topic": "Area & Perimeter",
+    "lessonMarkdown": "# Area & Perimeter 📏🐱\n\nCats need to know the size of their territory!\n\n- **Perimeter** is the distance around a shape (add all sides)\n- **Area** is the space inside a shape\n- Area of a rectangle = length × width\n- Units matter: perimeter uses length units (cm), area uses square units (cm²)\n\n> **Meowtip:** Think of perimeter as the fence around a yard, and area as the grass inside.\n\n**Ready to calculate area and perimeter?**",
+    "mcq": [
+      { "q": "What is the perimeter of a square with sides of 5 cm?", "choices": ["10 cm", "15 cm", "20 cm", "25 cm"], "answer": 2 },
+      { "q": "What is the area of a rectangle with length 7 cm and width 4 cm?", "choices": ["11 cm²", "22 cm²", "28 cm²", "30 cm²"], "answer": 2 },
+      { "q": "If a square has an area of 36 cm², what is the length of each side?", "choices": ["4 cm", "6 cm", "9 cm", "12 cm"], "answer": 1 },
+      { "q": "What is the perimeter of a rectangle with length 8 cm and width 3 cm?", "choices": ["11 cm", "22 cm", "24 cm", "32 cm"], "answer": 1 },
+      { "q": "What is the formula for the area of a rectangle?", "choices": ["length + width", "length × width", "2 × (length + width)", "length ÷ width"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "What is the area of a square with sides of 9 cm?", "choices": ["36 cm²", "45 cm²", "81 cm²", "90 cm²"], "answer": 2 },
+      { "q": "What is the perimeter of a rectangle with length 12 cm and width 5 cm?", "choices": ["17 cm", "24 cm", "34 cm", "60 cm"], "answer": 2 },
+      { "q": "If a rectangle has perimeter 20 cm and width 3 cm, what is its length?", "choices": ["5 cm", "7 cm", "10 cm", "14 cm"], "answer": 1 },
+      { "q": "What is the area of a rectangle with length 4 cm and width 6 cm?", "choices": ["10 cm²", "18 cm²", "24 cm²", "36 cm²"], "answer": 2 },
+      { "q": "If a square has perimeter 28 cm, what is its area?", "choices": ["36 cm²", "49 cm²", "64 cm²", "81 cm²"], "answer": 1 },
+      { "q": "What is the formula for the perimeter of a rectangle?", "choices": ["length × width", "length + width", "2 × (length + width)", "4 × side"], "answer": 2 },
+      { "q": "If a cat's bed is a square with area 4 ft², what is its perimeter?", "choices": ["4 ft", "8 ft", "16 ft", "32 ft"], "answer": 1 },
+      { "q": "What is the perimeter of a square with area 16 cm²?", "choices": ["8 cm", "16 cm", "24 cm", "32 cm"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 4,
+    "topic": "Data & Graphs",
+    "lessonMarkdown": "# Data & Graphs 📊🐱\n\nCats need to track their treat consumption!\n\n- **Data** is information we collect\n- We can display data using different types of graphs\n- **Bar graphs** compare amounts across categories\n- **Line graphs** show changes over time\n- **Pictographs** use pictures to represent data\n\n> **Meowtip:** Remember to include a title, labels, and key on your graphs!\n\n**Ready to work with data?**",
+    "mcq": [
+      { "q": "What type of graph is best to show temperature changes over a week?", "choices": ["Bar graph", "Line graph", "Pictograph", "Pie chart"], "answer": 1 },
+      { "q": "What should always be included on a graph?", "choices": ["Pictures", "Colors", "Title and labels", "Numbers only"], "answer": 2 },
+      { "q": "If a pictograph shows 🐱 = 5 cats, what do 3 cat symbols represent?", "choices": ["3 cats", "8 cats", "15 cats", "30 cats"], "answer": 2 },
+      { "q": "What graph shows parts of a whole as slices?", "choices": ["Bar graph", "Line graph", "Pictograph", "Pie chart"], "answer": 3 },
+      { "q": "What type of graph would best show favorite cat breeds in a classroom?", "choices": ["Bar graph", "Line graph", "Pictograph", "Line plot"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "What is the purpose of a key on a graph?", "choices": ["To lock the data", "To explain what symbols mean", "To show the title", "To show the date"], "answer": 1 },
+      { "q": "Which graph is best for showing how a kitten's weight changes over time?", "choices": ["Bar graph", "Line graph", "Pictograph", "Pie chart"], "answer": 1 },
+      { "q": "In a bar graph, what do taller bars represent?", "choices": ["Less data", "More data", "Older data", "Newer data"], "answer": 1 },
+      { "q": "What is the range of this data set: 5, 8, 3, 6, 4?", "choices": ["3", "5", "8", "26"], "answer": 0 },
+      { "q": "What is the mode of this data: 7, 9, 7, 5, 8, 7?", "choices": ["5", "7", "8", "9"], "answer": 1 },
+      { "q": "What is the mean (average) of 4, 6, and 8?", "choices": ["4", "6", "8", "18"], "answer": 1 },
+      { "q": "What graph would best show how students travel to school?", "choices": ["Line graph", "Line plot", "Bar graph", "Pictograph"], "answer": 2 },
+      { "q": "What is the median of 3, 7, 1, 9, 5?", "choices": ["1", "3", "5", "9"], "answer": 2 }
+    ]
+  },
+  {
     "grade": 5,
     "topic": "Fun with Fractions",
     "lessonMarkdown": "# Fun with Fractions 🧁🐈‍⬛\n\nFractions name **parts of a whole**.\n\n- In `3⁄4`, the **numerator** (`3`) counts the eaten cupcakes; the **denominator** (`4`) is how many existed.\n- Equivalent fractions taste the same size: `1⁄2 = 2⁄4 = 4⁄8`.\n- To add like denominators, just add tops: `3⁄8 + 2⁄8 = 5⁄8`.\n- For unlike ones, find a **common denominator** first (_cat bowls must match!_).\n\n> Mixed numbers combine wholes and fractions (`2 1⁄3`).\n\n- Simplify whenever possible so answers stay neat.\n\n**Ready for fraction fun?**",
@@ -132,25 +550,201 @@
     ]
   },
   {
+    "grade": 5,
+    "topic": "Decimals in Depth",
+    "lessonMarkdown": "# Decimals in Depth 🔢🐱\n\nCats are precise mathematicians!\n\n- Decimals extend our number system beyond whole numbers\n- The first place to the right of the decimal is tenths (0.1)\n- Next comes hundredths (0.01), then thousandths (0.001)\n- When adding or subtracting, line up the decimal points\n\n> **Meowtip:** Think of money! $0.25 means 25 cents or 25 hundredths of a dollar.\n\n**Ready to dive into decimals?**",
+    "mcq": [
+      { "q": "What is 0.7 + 0.42?", "choices": ["0.49", "1.12", "1.42", "0.472"], "answer": 0 },
+      { "q": "Which is greater: 0.8 or 0.75?", "choices": ["0.8", "0.75", "They're equal", "Can't compare"], "answer": 0 },
+      { "q": "What is 3.45 × 10?", "choices": ["3.450", "34.5", "345", "3,450"], "answer": 1 },
+      { "q": "What is 4.2 - 1.85?", "choices": ["2.35", "2.55", "3.05", "3.15"], "answer": 0 },
+      { "q": "What is 0.6 × 0.4?", "choices": ["0.24", "0.24", "0.10", "1.0"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "What is 1.37 + 2.85?", "choices": ["3.12", "4.12", "4.22", "14.22"], "answer": 2 },
+      { "q": "Which is less: 0.09 or 0.1?", "choices": ["0.09", "0.1", "They're equal", "Can't compare"], "answer": 0 },
+      { "q": "What is 5.67 × 100?", "choices": ["5.6700", "56.7", "567", "5,670"], "answer": 2 },
+      { "q": "What is 7.5 - 3.25?", "choices": ["4.25", "4.50", "4.75", "5.25"], "answer": 0 },
+      { "q": "What is 1.2 × 0.5?", "choices": ["0.6", "0.06", "6", "60"], "answer": 0 },
+      { "q": "Round 3.68 to the nearest tenth.", "choices": ["3", "3.6", "3.7", "4"], "answer": 2 },
+      { "q": "What is 8.6 ÷ 4?", "choices": ["2.15", "21.5", "2.15", "0.215"], "answer": 0 },
+      { "q": "If a cat weighs 4.85 kg and gains 0.75 kg, what is its new weight?", "choices": ["4.10 kg", "5.50 kg", "5.60 kg", "5.85 kg"], "answer": 2 }
+    ]
+  },
+  {
+    "grade": 5,
+    "topic": "Volume & Geometry",
+    "lessonMarkdown": "# Volume & Geometry 📦🐱\n\nCats like to know how big their boxes are!\n\n- **Volume** is the space inside a 3D shape (measured in cubic units)\n- Volume of a rectangular prism = length × width × height\n- A cube is a special rectangular prism where all sides are equal\n- Volume of a cube = side length × side length × side length (or side³)\n\n> **Meowtip:** Think of volume as how many sugar cubes can fit in a box.\n\n**Ready to calculate volume?**",
+    "mcq": [
+      { "q": "What is the volume of a cube with side length 3 cm?", "choices": ["9 cm³", "12 cm³", "18 cm³", "27 cm³"], "answer": 3 },
+      { "q": "What is the volume of a rectangular prism with length 4 cm, width 3 cm, and height 2 cm?", "choices": ["9 cm³", "14 cm³", "24 cm³", "36 cm³"], "answer": 2 },
+      { "q": "What is the formula for the volume of a rectangular prism?", "choices": ["l × w × h", "l + w + h", "2 × (l + w + h)", "l × w"], "answer": 0 },
+      { "q": "How many 1 cm³ cubes fit in a box with volume 8 cm³?", "choices": ["4", "6", "8", "10"], "answer": 2 },
+      { "q": "If a cube has volume 125 cm³, what is the length of each edge?", "choices": ["5 cm", "15 cm", "25 cm", "125 cm"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "What is the volume of a rectangular prism with length 5 cm, width 2 cm, and height 3 cm?", "choices": ["10 cm³", "25 cm³", "30 cm³", "35 cm³"], "answer": 2 },
+      { "q": "A cube has a volume of 64 cm³. What is the length of each edge?", "choices": ["4 cm", "8 cm", "16 cm", "64 cm"], "answer": 0 },
+      { "q": "What is the volume of a cube with side length 6 m?", "choices": ["36 m³", "108 m³", "216 m³", "432 m³"], "answer": 2 },
+      { "q": "If a box has length 4 cm, width 3 cm, and volume 36 cm³, what is its height?", "choices": ["3 cm", "9 cm", "12 cm", "36 cm"], "answer": 0 },
+      { "q": "How does the volume change if all dimensions of a box are doubled?", "choices": ["It doubles", "It triples", "It quadruples", "It increases 8 times"], "answer": 3 },
+      { "q": "What is the volume of a cube with side length 0.5 m?", "choices": ["0.125 m³", "0.25 m³", "0.5 m³", "1.5 m³"], "answer": 0 },
+      { "q": "If a cat's litter box is 40 cm long, 30 cm wide, and 15 cm high, what is its volume?", "choices": ["1,200 cm³", "12,000 cm³", "18,000 cm³", "120,000 cm³"], "answer": 2 },
+      { "q": "What is the volume of a rectangular prism with length 2.5 cm, width 3 cm, and height 4 cm?", "choices": ["9.5 cm³", "24 cm³", "30 cm³", "45 cm³"], "answer": 2 }
+    ]
+  },
+  {
+    "grade": 5,
+    "topic": "Coordinate Geometry",
+    "lessonMarkdown": "# Coordinate Geometry 📍🐱\n\nCats use coordinates to find their favorite napping spots!\n\n- A coordinate grid has a horizontal x-axis and a vertical y-axis\n- The point where they meet is called the origin (0,0)\n- Each point on the grid has an address (x,y)\n- First move right/left (x), then up/down (y)\n\n> **Meowtip:** Think of the first number as how far along the floor, second number as how high up the wall.\n\n**Ready to locate points?**",
+    "mcq": [
+      { "q": "What are the coordinates of the origin?", "choices": ["(0,0)", "(1,1)", "(x,y)", "None of these"], "answer": 0 },
+      { "q": "Which direction is positive on the y-axis?", "choices": ["Left", "Right", "Up", "Down"], "answer": 2 },
+      { "q": "If you move 3 units right and 4 units up from the origin, what are your coordinates?", "choices": ["(3,4)", "(4,3)", "(-3,4)", "(3,-4)"], "answer": 0 },
+      { "q": "Which quadrant is the point (3,-2) located in?", "choices": ["First", "Second", "Third", "Fourth"], "answer": 3 },
+      { "q": "What is the distance between (0,0) and (3,4)?", "choices": ["5", "7", "12", "25"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "What are the coordinates of a point 2 units left and 5 units up from the origin?", "choices": ["(2,5)", "(-2,5)", "(5,2)", "(5,-2)"], "answer": 1 },
+      { "q": "In which quadrant is the point (-3,-4) located?", "choices": ["First", "Second", "Third", "Fourth"], "answer": 2 },
+      { "q": "If you're at (5,2) and move 3 units left and 4 units up, what are your new coordinates?", "choices": ["(2,6)", "(8,6)", "(2,-2)", "(8,-2)"], "answer": 0 },
+      { "q": "What does the x-coordinate tell you?", "choices": ["How far up or down", "How far left or right", "The distance from origin", "The quadrant"], "answer": 1 },
+      { "q": "Which point is in the second quadrant?", "choices": ["(2,3)", "(-2,3)", "(2,-3)", "(-2,-3)"], "answer": 1 },
+      { "q": "What shape is formed by connecting the points (0,0), (3,0), (3,4), and (0,4)?", "choices": ["Square", "Rectangle", "Triangle", "Pentagon"], "answer": 1 },
+      { "q": "If a cat walks from (2,3) to (2,7), how far does it travel?", "choices": ["4 units", "5 units", "8 units", "10 units"], "answer": 0 },
+      { "q": "What is the distance between (1,1) and (4,5)?", "choices": ["5 units", "6 units", "7 units", "9 units"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 5,
+    "topic": "Percentages",
+    "lessonMarkdown": "# Percentages 💯🐱\n\nCats give 100% effort to math!\n\n- Percent means 'per hundred' (out of 100)\n- 50% means 50 out of 100, or half\n- To convert a fraction to percent: divide, then multiply by 100\n- To convert a decimal to percent: multiply by 100\n\n> **Meowtip:** 25% = 1/4 = 0.25, 50% = 1/2 = 0.5, 75% = 3/4 = 0.75\n\n**Ready to work with percentages?**",
+    "mcq": [
+      { "q": "What is 25% as a fraction in simplest form?", "choices": ["1/4", "1/5", "1/25", "1/100"], "answer": 0 },
+      { "q": "What is 0.7 as a percent?", "choices": ["0.7%", "7%", "70%", "700%"], "answer": 2 },
+      { "q": "What is 3/5 as a percent?", "choices": ["35%", "45%", "60%", "75%"], "answer": 2 },
+      { "q": "If a cat sleeps 75% of the day, how many hours is that?", "choices": ["6 hours", "12 hours", "18 hours", "20 hours"], "answer": 2 },
+      { "q": "What is 20% of 80?", "choices": ["4", "8", "16", "20"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "What is 40% as a decimal?", "choices": ["0.04", "0.4", "4.0", "40.0"], "answer": 1 },
+      { "q": "What is 0.35 as a percent?", "choices": ["0.35%", "3.5%", "35%", "350%"], "answer": 2 },
+      { "q": "What is 7/10 as a percent?", "choices": ["7%", "10%", "70%", "700%"], "answer": 2 },
+      { "q": "Which is larger, 45% or 0.5?", "choices": ["45%", "0.5", "They're equal", "Can't compare"], "answer": 1 },
+      { "q": "What is 30% of 50?", "choices": ["15", "20", "30", "150"], "answer": 0 },
+      { "q": "If a cat eats 25% of its food bowl, what fraction is left?", "choices": ["1/4", "3/4", "1/5", "4/5"], "answer": 1 },
+      { "q": "If a bag of 60 cat treats is 15% empty, how many treats are left?", "choices": ["9", "45", "51", "57"], "answer": 2 },
+      { "q": "What percent of 20 is 5?", "choices": ["15%", "20%", "25%", "30%"], "answer": 2 }
+    ]
+  },
+  {
     "grade": 6,
     "topic": "Decimals & Ratios",
     "lessonMarkdown": "# Decimals & Ratios 🐟🐟\n\nDecimals show **parts of ten**.\n\n- `0.5` is the same as `1⁄2`.\n- Line digits up by the decimal point when adding or subtracting.\n- To multiply, ignore the dot, multiply, then count total decimal places.\n\n> **Ratios** compare quantities: if `3` black cats play with `2` white cats, the ratio is `3:2`.\n\n- Proportions keep ratios equal—scale recipes for more hungry felines!\n- Convert between fractions, decimals, and percentages to become a flexible **cat-culator**.\n\n**Ready to play with decimals?**",
     "mcq": [
       { "q": "0.7 as a fraction is…", "choices": ["7⁄10", "7⁄100", "1⁄7", "70"], "answer": 0 },
       { "q": "Add: 3.25 + 1.4 =", "choices": ["4.29", "4.55", "4.65", "4.75"], "answer": 2 },
-      { "q": "Multiply: 0.3 × 0.2 =", "choices": ["0.06", "0.6", "0.003", "0.06 (6 %)"], "answer": 0 },
-      { "q": "The ratio 4 : 5 means…", "choices": ["4 + 5", "4 out of 9", "4 to 5", "5 to 4"], "answer": 2 },
-      { "q": "45 % as a decimal is…", "choices": ["0.45", "4.5", "0.045", "45"], "answer": 0 }
+      { "q": "Multiply: 0.3 × 0.2 =", "choices": ["0.06", "0.6", "0.003", "0.06 (6 %)"], "answer": 0 },
+      { "q": "The ratio 4 : 5 means…", "choices": ["4 + 5", "4 out of 9", "4 to 5", "5 to 4"], "answer": 2 },
+      { "q": "45 % as a decimal is…", "choices": ["0.45", "4.5", "0.045", "45"], "answer": 0 }
     ],
     "quizBank": [
       { "q": "Convert 0.125 to fraction", "choices": ["1⁄8", "1⁄4", "1⁄2", "1⁄6"], "answer": 0 },
       { "q": "2.7 − 0.83 =", "choices": ["1.87", "1.97", "1.84", "1.90"], "answer": 1 },
-      { "q": "80 % equals…", "choices": ["0.8", "0.08", "8", "8 %"], "answer": 0 },
-      { "q": "Simplify ratio 6 : 9", "choices": ["2 : 3", "3 : 2", "1 : 2", "2 : 1"], "answer": 0 },
+      { "q": "80 % equals…", "choices": ["0.8", "0.08", "8", "8 %"], "answer": 0 },
+      { "q": "Simplify ratio 6 : 9", "choices": ["2 : 3", "3 : 2", "1 : 2", "2 : 1"], "answer": 0 },
       { "q": "0.04 × 10 =", "choices": ["0.4", "0.04", "4", "0.004"], "answer": 0 },
       { "q": "Which decimal is largest?", "choices": ["0.98", "0.9", "0.899", "0.908"], "answer": 0 },
-      { "q": "Convert 3⁄5 to percent", "choices": ["20 %", "40 %", "60 %", "80 %"], "answer": 2 },
-      { "q": "True or False: 1 : 2 = 2 : 4", "choices": ["True", "False", "Sometimes", "Not sure"], "answer": 0 }
+      { "q": "Convert 3⁄5 to percent", "choices": ["20 %", "40 %", "60 %", "80 %"], "answer": 2 },
+      { "q": "True or False: 1 : 2 = 2 : 4", "choices": ["True", "False", "Sometimes", "Not sure"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 6,
+    "topic": "Intro to Algebra",
+    "lessonMarkdown": "# Intro to Algebra 🔤🐱\n\nCats are curious about variables!\n\n- Variables are letters that stand for numbers (like x or y)\n- Algebraic expressions combine numbers, variables, and operations\n- To evaluate an expression, substitute the value for each variable\n- Like terms have the same variables raised to the same powers\n\n> **Meowtip:** Think of variables as mystery boxes that can hold different numbers.\n\n**Ready to explore algebra?**",
+    "mcq": [
+      { "q": "What is the value of 2x + 3 when x = 4?", "choices": ["7", "11", "14", "20"], "answer": 1 },
+      { "q": "Which are like terms?", "choices": ["3x and 5y", "2x and 4x", "x² and x", "5 and x"], "answer": 1 },
+      { "q": "Simplify: 3x + 4x", "choices": ["7x", "7x²", "12x", "3x + 4x"], "answer": 0 },
+      { "q": "What is the solution to x + 5 = 12?", "choices": ["5", "7", "12", "17"], "answer": 1 },
+      { "q": "Which is an algebraic expression?", "choices": ["x = 3", "x + 2 = 7", "3x + 5", "x > 4"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "What is the value of 3y - 4 when y = 3?", "choices": ["5", "7", "9", "12"], "answer": 0 },
+      { "q": "Simplify: 2a + 5b + 3a", "choices": ["10ab", "5a + 5b", "5ab + 3a", "5a + 5b"], "answer": 1 },
+      { "q": "What is the solution to 2x - 3 = 9?", "choices": ["3", "6", "12", "18"], "answer": 1 },
+      { "q": "Which expression equals 4m when m = 2?", "choices": ["m + 4", "4 + m", "4 × m", "4 - m"], "answer": 2 },
+      { "q": "What is the coefficient of x in 7x?", "choices": ["x", "7", "7x", "1"], "answer": 1 },
+      { "q": "Which is NOT an algebraic expression?", "choices": ["2x + 3", "x² - 5", "4k", "y = 8"], "answer": 3 },
+      { "q": "If a cat can eat c treats per hour, how many treats in 5 hours?", "choices": ["5 + c", "5c", "c/5", "c - 5"], "answer": 1 },
+      { "q": "Translate to algebra: 'six more than a number'", "choices": ["6n", "n + 6", "n - 6", "6/n"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 6,
+    "topic": "Rates & Proportions",
+    "lessonMarkdown": "# Rates & Proportions 🏃‍♀️🐱\n\nCats love to compare speeds!\n\n- A rate compares two quantities with different units\n- Unit rates have a denominator of 1 (like miles per hour)\n- A proportion is an equation showing two equal ratios\n- Use cross multiplication to solve proportions\n\n> **Meowtip:** Use proportions to scale recipes or find missing values.\n\n**Ready to work with rates?**",
+    "mcq": [
+      { "q": "If a cat runs 30 meters in 6 seconds, what is its speed in meters per second?", "choices": ["3 m/s", "5 m/s", "6 m/s", "180 m/s"], "answer": 0 },
+      { "q": "If 3 cans of cat food cost $4.50, how much do 5 cans cost?", "choices": ["$6.00", "$7.50", "$9.00", "$15.00"], "answer": 1 },
+      { "q": "Which is a unit rate?", "choices": ["300 miles in 6 hours", "50 miles per hour", "2:3", "12 out of 20"], "answer": 1 },
+      { "q": "In the proportion 3/4 = x/20, what is x?", "choices": ["5", "15", "16", "25"], "answer": 1 },
+      { "q": "What's the unit rate for $12 for 4 pounds?", "choices": ["$3 per pound", "$4 per pound", "$8 per pound", "$48 per pound"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "If a cat eats 2 cans of food every 3 days, how many cans for 9 days?", "choices": ["3", "6", "9", "18"], "answer": 1 },
+      { "q": "At 55 miles per hour, how far can you travel in 4 hours?", "choices": ["110 miles", "165 miles", "220 miles", "275 miles"], "answer": 2 },
+      { "q": "If 8 treats cost $2, what's the cost of 12 treats?", "choices": ["$2.50", "$3.00", "$3.50", "$4.00"], "answer": 1 },
+      { "q": "If a recipe needs 3 cups of flour for 24 cookies, how much for 40 cookies?", "choices": ["4 cups", "5 cups", "6 cups", "8 cups"], "answer": 1 },
+      { "q": "Which means the same as 60 miles in 2 hours?", "choices": ["30 mph", "60 mph", "120 mph", "180 mph"], "answer": 0 },
+      { "q": "Solve: 5/x = 15/24", "choices": ["8", "10", "12", "16"], "answer": 0 },
+      { "q": "If a cat drinks 5 oz of water every 4 hours, how many ounces per day?", "choices": ["20 oz", "25 oz", "30 oz", "35 oz"], "answer": 2 },
+      { "q": "Is 35/40 = 7/8 a true proportion?", "choices": ["Yes", "No", "Sometimes", "Need more information"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 6,
+    "topic": "Statistical Analysis",
+    "lessonMarkdown": "# Statistical Analysis 📊🐱\n\nCats track their treats with statistics!\n\n- **Mean** is the average (sum divided by count)\n- **Median** is the middle number when values are ordered\n- **Mode** is the most frequent value\n- **Range** is the difference between the largest and smallest values\n\n> **Meowtip:** Plot your data to see patterns and outliers more clearly.\n\n**Ready to analyze data?**",
+    "mcq": [
+      { "q": "What is the mean of 3, 7, 8, 4, 3?", "choices": ["3", "4", "5", "7"], "answer": 2 },
+      { "q": "What is the median of 12, 5, 8, 20, 9?", "choices": ["5", "8", "9", "12"], "answer": 2 },
+      { "q": "What is the mode of 4, 2, 4, 7, 9, 4?", "choices": ["2", "4", "7", "9"], "answer": 1 },
+      { "q": "What is the range of 15, 28, 36, 10, 22?", "choices": ["10", "26", "36", "88"], "answer": 1 },
+      { "q": "Which measure is affected most by an outlier?", "choices": ["Mean", "Median", "Mode", "All equally"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "What is the mean of 4, 8, 9, 11, 13?", "choices": ["8", "9", "10", "11"], "answer": 1 },
+      { "q": "What is the median of 3, 8, 2, 7, 5, 12?", "choices": ["5", "6", "7", "8"], "answer": 1 },
+      { "q": "What is the mode of 7, 3, 7, 2, 8, 2, 7?", "choices": ["2", "3", "7", "8"], "answer": 2 },
+      { "q": "What is the range of 25, 30, 15, 40, 20?", "choices": ["15", "25", "30", "40"], "answer": 1 },
+      { "q": "Which best represents the center of a skewed distribution?", "choices": ["Mean", "Median", "Mode", "Range"], "answer": 1 },
+      { "q": "If you add 5 to every value in a data set, what happens to the mean?", "choices": ["Increases by 5", "Decreases by 5", "Multiplied by 5", "No change"], "answer": 0 },
+      { "q": "In which distribution would mean = median?", "choices": ["Right-skewed", "Left-skewed", "Symmetric", "Bimodal"], "answer": 2 },
+      { "q": "What's the median of 3, 9, 4, 10, 6?", "choices": ["3", "4", "6", "9"], "answer": 2 }
+    ]
+  },
+  {
+    "grade": 6,
+    "topic": "Geometry & Measurement",
+    "lessonMarkdown": "# Geometry & Measurement 📐🐱\n\nCats like to measure their world!\n\n- Area of a triangle = (1/2) × base × height\n- Area of a parallelogram = base × height\n- Surface area of a rectangular prism = 2(length × width + length × height + width × height)\n- Volume of a rectangular prism = length × width × height\n\n> **Meowtip:** Draw and label diagrams to help visualize geometry problems.\n\n**Ready to measure shapes?**",
+    "mcq": [
+      { "q": "What is the area of a triangle with base 8 cm and height 6 cm?", "choices": ["14 cm²", "24 cm²", "30 cm²", "48 cm²"], "answer": 1 },
+      { "q": "What is the area of a parallelogram with base 7 m and height 4 m?", "choices": ["14 m²", "22 m²", "28 m²", "56 m²"], "answer": 2 },
+      { "q": "What is the volume of a cube with side length 5 cm?", "choices": ["25 cm³", "75 cm³", "125 cm³", "625 cm³"], "answer": 2 },
+      { "q": "Which unit would you use to measure the volume of a cat's water bowl?", "choices": ["cm²", "m²", "cm³", "m"], "answer": 2 },
+      { "q": "What's the perimeter of a regular hexagon with sides of 4 cm?", "choices": ["20 cm", "24 cm", "28 cm", "32 cm"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "What is the area of a triangle with base 10 m and height 7 m?", "choices": ["17 m²", "35 m²", "70 m²", "85 m²"], "answer": 1 },
+      { "q": "What is the surface area of a cube with sides of 3 cm?", "choices": ["9 cm²", "18 cm²", "36 cm²", "54 cm²"], "answer": 3 },
+      { "q": "What is the volume of a rectangular prism with length 4 cm, width 3 cm, height 5 cm?", "choices": ["12 cm³", "20 cm³", "50 cm³", "60 cm³"], "answer": 3 },
+      { "q": "How many edges does a triangular prism have?", "choices": ["5", "6", "9", "12"], "answer": 2 },
+      { "q": "What is the area of a circle with radius 6 cm? (Use π ≈ 3.14)", "choices": ["36π cm²", "12π cm²", "18π cm²", "24π cm²"], "answer": 0 },
+      { "q": "What is the perimeter of a rectangle with length 9 cm and width 5 cm?", "choices": ["14 cm", "18 cm", "28 cm", "45 cm"], "answer": 2 },
+      { "q": "What is the surface area of a rectangular prism with length 5 cm, width 3 cm, height 2 cm?", "choices": ["30 cm²", "42 cm²", "60 cm²", "62 cm²"], "answer": 3 },
+      { "q": "Which angle is supplementary to 65°?", "choices": ["25°", "90°", "115°", "155°"], "answer": 2 }
     ]
   },
   {
@@ -176,6 +770,94 @@
     ]
   },
   {
+    "grade": 7,
+    "topic": "Equations & Inequalities",
+    "lessonMarkdown": "# Equations & Inequalities 🧮🐱\n\nCats balance equations perfectly!\n\n- An equation shows that two expressions are equal\n- To solve, isolate the variable using inverse operations\n- What you do to one side, you must do to the other\n- Inequalities compare expressions using <, >, ≤, or ≥\n\n> **Meowtip:** When multiplying or dividing by a negative in an inequality, flip the direction!\n\n**Ready to solve for x?**",
+    "mcq": [
+      { "q": "Solve: 3x + 4 = 19", "choices": ["3", "5", "6", "7"], "answer": 1 },
+      { "q": "If 2(x - 3) = 10, then x =", "choices": ["5", "7", "8", "13"], "answer": 2 },
+      { "q": "Which values of x satisfy x + 3 > 5?", "choices": ["x > 2", "x > 3", "x < 2", "x < 8"], "answer": 0 },
+      { "q": "When solving -2x = 8, first step is to...", "choices": ["Add 2", "Subtract 8", "Multiply by -1", "Divide by -2"], "answer": 3 },
+      { "q": "Which is the solution to x/4 - 2 = 3?", "choices": ["5", "8", "12", "20"], "answer": 3 }
+    ],
+    "quizBank": [
+      { "q": "Solve: 5x - 3 = 12", "choices": ["2", "3", "5", "8"], "answer": 1 },
+      { "q": "Solve: 3(x + 2) = 21", "choices": ["3", "5", "7", "9"], "answer": 1 },
+      { "q": "Which values satisfy 2x - 4 ≤ 6?", "choices": ["x ≤ 5", "x ≤ 1", "x ≥ 5", "x ≥ 1"], "answer": 0 },
+      { "q": "When solving -3x ≥ 15, the solution is...", "choices": ["x ≥ -5", "x ≤ -5", "x ≥ 5", "x ≤ 5"], "answer": 1 },
+      { "q": "Solve: 2x/3 + 4 = 10", "choices": ["6", "9", "12", "18"], "answer": 1 },
+      { "q": "If 8 - x = 3, then x =", "choices": ["3", "5", "8", "11"], "answer": 1 },
+      { "q": "Which is the solution to 4x + 7 = 3x - 5?", "choices": ["-12", "-6", "6", "12"], "answer": 1 },
+      { "q": "Solve: 2(x + 3) - 5 = 11", "choices": ["5", "6", "7", "8"], "answer": 1 }
+    ]
+  },
+  {
+    "grade": 7,
+    "topic": "Proportional Relationships",
+    "lessonMarkdown": "# Proportional Relationships 📈🐱\n\nCats understand when things scale together!\n\n- In a proportional relationship, the ratio of two quantities stays constant\n- The constant of proportionality (k) is the ratio y/x for any point\n- Proportional relationships graph as straight lines through the origin\n- Unit rate is the value of y when x = 1\n\n> **Meowtip:** Look for the phrase \"for every\" as a clue for proportional relationships.\n\n**Ready to explore proportions?**",
+    "mcq": [
+      { "q": "If y = 4x is proportional, what's the constant of proportionality?", "choices": ["x", "y", "4", "y/x"], "answer": 2 },
+      { "q": "If 3 cans cost $6, how much do 5 cans cost?", "choices": ["$8", "$10", "$12", "$15"], "answer": 1 },
+      { "q": "Which equation represents a proportional relationship?", "choices": ["y = 3x + 2", "y = 3x", "y = x² + 3", "y = 3/x"], "answer": 1 },
+      { "q": "A car travels 60 miles in 2 hours. At this rate, how far in 5 hours?", "choices": ["120 miles", "150 miles", "180 miles", "300 miles"], "answer": 1 },
+      { "q": "Which graph represents a proportional relationship?", "choices": ["Line not through origin", "Curved line", "Line through origin", "Horizontal line"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "If y = 2.5x, what's the value of y when x = 4?", "choices": ["6.5", "10", "10.5", "14"], "answer": 1 },
+      { "q": "If 6 treats cost $3, what's the unit price per treat?", "choices": ["$0.25", "$0.50", "$0.75", "$1.50"], "answer": 1 },
+      { "q": "Which is NOT a proportional relationship?", "choices": ["y = 5x", "y = x/2", "y = 3x - 1", "y = 0.5x"], "answer": 2 },
+      { "q": "If y/x = 3, and x = 5, what is y?", "choices": ["3/5", "5/3", "8", "15"], "answer": 3 },
+      { "q": "A recipe needs 2 cups of flour for 12 cookies. How much for 30 cookies?", "choices": ["3 cups", "4 cups", "5 cups", "6 cups"], "answer": 2 },
+      { "q": "What's the constant of proportionality in y = 0.25x?", "choices": ["0.25", "0.5", "4", "x/4"], "answer": 0 },
+      { "q": "If y is proportional to x, and y = 18 when x = 6, what is y when x = 10?", "choices": ["30", "45", "60", "180"], "answer": 0 },
+      { "q": "Which statement is true about proportional relationships?", "choices": ["They all have y-intercept of 1", "They all have slope of 1", "They all pass through the origin", "They all have negative slope"], "answer": 2 }
+    ]
+  },
+  {
+    "grade": 7,
+    "topic": "Probability & Statistics",
+    "lessonMarkdown": "# Probability & Statistics 🎲🐱\n\nCats calculate their chances of getting treats!\n\n- Probability measures how likely an event is to occur\n- Range from 0 (impossible) to 1 (certain)\n- Probability = favorable outcomes / total possible outcomes\n- Sample spaces list all possible outcomes\n\n> **Meowtip:** Use tree diagrams to visualize complex probability problems.\n\n**Ready to calculate chances?**",
+    "mcq": [
+      { "q": "What is the probability of rolling a 3 on a fair six-sided die?", "choices": ["1/3", "1/6", "3/6", "3/1"], "answer": 1 },
+      { "q": "If you flip a fair coin twice, what's the probability of getting 2 heads?", "choices": ["1/4", "1/3", "1/2", "3/4"], "answer": 0 },
+      { "q": "If you draw a card from a standard deck, what's the probability it's a heart?", "choices": ["1/4", "1/13", "4/52", "13/52"], "answer": 0 },
+      { "q": "What's the probability of an impossible event?", "choices": ["0", "1/2", "1", "Cannot be determined"], "answer": 0 },
+      { "q": "When rolling a fair die, what's the probability of getting an even number?", "choices": ["1/6", "1/3", "1/2", "2/3"], "answer": 2 }
+    ],
+    "quizBank": [
+      { "q": "If a spinner has 5 equal sections numbered 1-5, what's the probability of spinning an odd number?", "choices": ["1/5", "2/5", "3/5", "4/5"], "answer": 2 },
+      { "q": "What's the probability of randomly selecting a vowel from the word 'MATHEMATICS'?", "choices": ["3/11", "4/11", "5/11", "6/11"], "answer": 1 },
+      { "q": "If you roll two dice, what's the probability of getting a sum of 7?", "choices": ["1/6", "1/12", "5/36", "6/36"], "answer": 3 },
+      { "q": "What's the probability of drawing a king or queen from a standard deck?", "choices": ["1/13", "2/13", "8/52", "1/2"], "answer": 1 },
+      { "q": "If P(A) = 0.4 and P(B) = 0.3, what is the maximum possible value of P(A and B)?", "choices": ["0.1", "0.3", "0.4", "0.7"], "answer": 1 },
+      { "q": "What's the probability of NOT getting a 6 when rolling a die?", "choices": ["1/6", "5/6", "0", "1"], "answer": 1 },
+      { "q": "In a bag with 3 red, 4 blue, and 5 green marbles, what's the probability of drawing a blue?", "choices": ["1/3", "1/4", "4/12", "1/12"], "answer": 2 },
+      { "q": "If you flip a coin 3 times, how many possible outcomes are there?", "choices": ["3", "6", "8", "9"], "answer": 2 }
+    ]
+  },
+  {
+    "grade": 7,
+    "topic": "Geometric Relationships",
+    "lessonMarkdown": "# Geometric Relationships 📐🐱\n\nCats love to explore angles and shapes!\n\n- Complementary angles sum to 90°\n- Supplementary angles sum to 180°\n- Vertical angles are equal\n- Scale factor changes the size but preserves the shape\n\n> **Meowtip:** Draw diagrams to visualize angle relationships.\n\n**Ready to explore geometry?**",
+    "mcq": [
+      { "q": "If two angles are complementary, and one is 37°, what is the other?", "choices": ["37°", "43°", "53°", "143°"], "answer": 2 },
+      { "q": "What is the relationship between ∠1 and ∠3 in intersecting lines?", "choices": ["Complementary", "Supplementary", "Vertical (equal)", "Adjacent"], "answer": 2 },
+      { "q": "In a triangle with angles 32° and 68°, what is the third angle?", "choices": ["60°", "80°", "90°", "100°"], "answer": 1 },
+      { "q": "If a shape is dilated by a scale factor of 3, how does the area change?", "choices": ["Multiplied by 3", "Multiplied by 6", "Multiplied by 9", "Multiplied by 27"], "answer": 2 },
+      { "q": "Which angles must be equal in a parallelogram?", "choices": ["All angles", "Opposite angles", "Adjacent angles", "No angles"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "If two angles are supplementary, and one is 57°, what is the other?", "choices": ["33°", "123°", "143°", "237°"], "answer": 1 },
+      { "q": "What is the sum of interior angles in a pentagon?", "choices": ["360°", "450°", "540°", "720°"], "answer": 2 },
+      { "q": "If a rectangle has a length of 8 cm and is scaled by a factor of 0.5, what is the new length?", "choices": ["4 cm", "8 cm", "12 cm", "16 cm"], "answer": 0 },
+      { "q": "Which angle pair is complementary?", "choices": ["30° and 60°", "45° and 45°", "60° and 120°", "90° and 90°"], "answer": 1 },
+      { "q": "What is the measure of each interior angle in a regular hexagon?", "choices": ["60°", "108°", "120°", "135°"], "answer": 2 },
+      { "q": "Which shape always has four right angles?", "choices": ["Rectangle", "Rhombus", "Trapezoid", "Parallelogram"], "answer": 0 },
+      { "q": "If a triangle has side lengths 4, 5, and 6, what type of triangle is it?", "choices": ["Equilateral", "Isosceles", "Scalene", "Right"], "answer": 2 },
+      { "q": "If a triangle has one angle of 90°, what do the other two angles sum to?", "choices": ["45°", "90°", "180°", "270°"], "answer": 1 }
+    ]
+  },
+  {
     "grade": 8,
     "topic": "Linear Equations & Geometry",
     "lessonMarkdown": "# Linear Equations & Geometry 📈🐈\n\nA linear equation like `y = 2x + 1` graphs a straight line; **slope** (`m = 2`) tells how steep the cat walkway rises, and **y-intercept** (`= 1`) shows where it crosses the y-axis.\n\n- Solve systems by finding where lines meet (the _purr-fect intersection_).\n- The **Pythagorean Theorem**, `a² + b² = c²`, finds the ladder length for cats climbing corner walls.\n- Understand **functions**: each `x` (input) gives exactly one `y` (output).\n\n> _Meowtip:_ Draw lines and triangles with a ruler for extra precision!\n\n**Ready to graph and solve?**",
@@ -192,9 +874,97 @@
       { "q": "Solve: 3x − 2 = 16", "choices": ["5", "6", "6⅔", "7"], "answer": 3 },
       { "q": "If lines are parallel, slopes are…", "choices": ["Equal", "Opposite", "Reciprocal", "Zero"], "answer": 0 },
       { "q": "Area of a circle with r = 3 (π ≈ 3.14)", "choices": ["9.42", "18.84", "28.26", "31.4"], "answer": 2 },
-      { "q": "Is (4, 9) a solution of y = 2x + 1?", "choices": ["Yes", "No", "Sometimes", "Need more info"], "answer": 1 },
+      { "q": "Is (4, 9) a solution of y = 2x + 1?", "choices": ["Yes", "No", "Sometimes", "Need more info"], "answer": 1 },
       { "q": "Pythagorean triples include…", "choices": ["5‑12‑13", "6‑7‑9", "8‑9‑12", "10‑10‑10"], "answer": 0 },
       { "q": "Standard form Ax + By = C, A should not be…", "choices": ["0", "Positive", "Negative", "Fraction"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 8,
+    "topic": "Systems of Equations",
+    "lessonMarkdown": "# Systems of Equations 🧮🐱\n\nCats solve puzzles with multiple clues!\n\n- A system of equations has two or more equations with the same variables\n- The solution is the point where all equations are satisfied\n- Solve by substitution: isolate a variable in one equation and substitute into the other\n- Solve by elimination: add or subtract equations to eliminate a variable\n\n> **Meowtip:** Graphing can help visualize the solution as the intersection point of lines.\n\n**Ready to solve systems?**",
+    "mcq": [
+      { "q": "What is the solution to the system: x + y = 5, x - y = 3?", "choices": ["(2, 3)", "(3, 2)", "(4, 1)", "(5, 0)"], "answer": 2 },
+      { "q": "In the elimination method, what do we do first?", "choices": ["Graph both lines", "Substitute values", "Align like terms", "Solve for one variable"], "answer": 2 },
+      { "q": "A system with infinitely many solutions has lines that are...", "choices": ["Intersecting", "Parallel", "Identical", "Perpendicular"], "answer": 2 },
+      { "q": "Which best describes a system with no solution?", "choices": ["Parallel lines", "Intersecting lines", "Coincident lines", "Perpendicular lines"], "answer": 0 },
+      { "q": "To solve x + 2y = 8, 3x + 6y = 24 by elimination, multiply first equation by...", "choices": ["2", "3", "4", "6"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "What is the solution to: 2x + y = 7, x - y = 1?", "choices": ["(2, 3)", "(3, 1)", "(1, 5)", "(4, -1)"], "answer": 0 },
+      { "q": "Which system has no solution?", "choices": ["y = 2x + 1, y = 2x - 3", "y = 2x + 1, y = 3x + 1", "y = 2x + 1, y = 2x + 1", "y = 2x + 1, y = -x + 4"], "answer": 0 },
+      { "q": "What is the solution method where you multiply equations to eliminate a variable?", "choices": ["Substitution", "Elimination", "Graphing", "Comparison"], "answer": 1 },
+      { "q": "If one equation is 3x + 4y = 10, and the solution is (2, 1), what's the other equation?", "choices": ["2x + y = 5", "x + y = 3", "x + 2y = 4", "2x - y = 3"], "answer": 2 },
+      { "q": "A cat runs twice as fast as a mouse. Together they travel 45 meters in 5 seconds. If the cat's speed is c, which system represents this?", "choices": ["c + m = 45, c = 2m", "c + m = 9, c = 2m", "5c + 5m = 45, c = 2m", "c + m = 5, c = 2m"], "answer": 1 },
+      { "q": "What's the y-coordinate of the solution to: 3x - 2y = 7, 2x + 3y = 8?", "choices": ["-1", "0", "1", "2"], "answer": 0 },
+      { "q": "What is the first step in solving by substitution?", "choices": ["Graph both equations", "Eliminate one variable", "Solve for one variable in one equation", "Set the equations equal"], "answer": 2 },
+      { "q": "The system 2x + 3y = 12, 4x + 6y = 18 has...", "choices": ["One solution", "Two solutions", "No solution", "Infinite solutions"], "answer": 3 }
+    ]
+  },
+  {
+    "grade": 8,
+    "topic": "Functions & Relationships",
+    "lessonMarkdown": "# Functions & Relationships 📊🐱\n\nCats understand special relationships between numbers!\n\n- A function is a special relationship where each input has exactly one output\n- The domain is the set of all possible input values\n- The range is the set of all possible output values\n- Functions can be represented as equations, tables, or graphs\n\n> **Meowtip:** Use the vertical line test to check if a graph represents a function.\n\n**Ready to explore functions?**",
+    "mcq": [
+      { "q": "Which relation is NOT a function?", "choices": ["y = x + 3", "y = x²", "x = y²", "y = |x|"], "answer": 2 },
+      { "q": "What is the range of f(x) = x² + 1?", "choices": ["All real numbers", "x ≥ 0", "y ≥ 1", "y ≥ 0"], "answer": 2 },
+      { "q": "If f(x) = 3x - 2, what is f(4)?", "choices": ["6", "10", "13", "14"], "answer": 1 },
+      { "q": "Which shows a function with a domain of all real numbers?", "choices": ["f(x) = 1/x", "f(x) = √x", "f(x) = x³", "f(x) = 1/(x-3)"], "answer": 2 },
+      { "q": "What's the vertical line test for functions?", "choices": ["No vertical line crosses the graph more than once", "No horizontal line crosses more than once", "All inputs have same output", "Graph must be continuous"], "answer": 0 }
+    ],
+    "quizBank": [
+      { "q": "If f(x) = 2x² - 3, what is f(-2)?", "choices": ["5", "3", "1", "-3"], "answer": 0 },
+      { "q": "Which represents a linear function?", "choices": ["y = x²", "y = 1/x", "y = 3x + 2", "y = √x"], "answer": 2 },
+      { "q": "What is the domain of g(x) = √(x-4)?", "choices": ["All real numbers", "x ≥ 0", "x ≥ 4", "x ≤ 4"], "answer": 2 },
+      { "q": "If h(x) = x² - 5x + 6, what is h(3)?", "choices": ["0", "6", "12", "18"], "answer": 0 },
+      { "q": "Which is the range of f(x) = |x|?", "choices": ["All real numbers", "x ≥ 0", "y ≥ 0", "y ≤ 0"], "answer": 2 },
+      { "q": "If f(a) = 7 and f(b) = 7, what must be true for a function?", "choices": ["a = b", "a ≠ b", "Either a = b or a ≠ b", "a and b cannot be determined"], "answer": 2 },
+      { "q": "What does f(3) = 5 mean?", "choices": ["When x is 5, y is 3", "When x is 3, y is 5", "When input is 3, output is 5", "3 is a function of 5"], "answer": 2 },
+      { "q": "Which represents the function rule for adding 5 to the square of a number?", "choices": ["f(x) = 5x²", "f(x) = 5 + x", "f(x) = x² + 5", "f(x) = (x + 5)²"], "answer": 2 }
+    ]
+  },
+  {
+    "grade": 8,
+    "topic": "Scientific Notation",
+    "lessonMarkdown": "# Scientific Notation 🔬🐱\n\nCats can handle really big and small numbers!\n\n- Scientific notation expresses numbers as a product of a factor and a power of 10\n- Written as a × 10^b where 1 ≤ a < 10 and b is an integer\n- Used for very large numbers (stars in galaxy) or very small numbers (size of bacteria)\n- Move the decimal point to get the standard form\n\n> **Meowtip:** Positive exponents for big numbers, negative for tiny numbers.\n\n**Ready to use scientific notation?**",
+    "mcq": [
+      { "q": "What is 4,500,000 in scientific notation?", "choices": ["4.5 × 10^5", "4.5 × 10^6", "45 × 10^5", "45 × 10^6"], "answer": 1 },
+      { "q": "What is 0.00023 in scientific notation?", "choices": ["2.3 × 10^-3", "2.3 × 10^-4", "23 × 10^-5", "0.23 × 10^-3"], "answer": 1 },
+      { "q": "When writing 78,000 in scientific notation, the exponent is...", "choices": ["3", "4", "5", "6"], "answer": 2 },
+      { "q": "(3 × 10^4) × (2 × 10^3) =", "choices": ["5 × 10^7", "6 × 10^7", "6 × 10^12", "5 × 10^12"], "answer": 1 },
+      { "q": "Which is NOT in scientific notation?", "choices": ["3.14 × 10^2", "0.5 × 10^3", "9.8 × 10^-4", "6.02 × 10^23"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "What is 0.0078 in scientific notation?", "choices": ["7.8 × 10^-2", "7.8 × 10^-3", "78 × 10^-4", "0.78 × 10^-2"], "answer": 1 },
+      { "q": "(5 × 10^6) ÷ (2 × 10^2) =", "choices": ["2.5 × 10^4", "2.5 × 10^3", "10 × 10^4", "10 × 10^3"], "answer": 0 },
+      { "q": "Which is the largest number?", "choices": ["5 × 10^3", "5 × 10^-3", "5 × 10^2", "5 × 10^-2"], "answer": 0 },
+      { "q": "What is 6.2 × 10^-4 in standard form?", "choices": ["0.00062", "0.0062", "0.062", "0.62"], "answer": 0 },
+      { "q": "The mass of an electron is about 9.11 × 10^-31 kg. The exponent is negative because...", "choices": ["The electron has negative charge", "The mass is very small", "Scientific error", "To balance the equation"], "answer": 1 },
+      { "q": "To convert 3.5 × 10^4 to standard form, move the decimal point...", "choices": ["4 places left", "4 places right", "3.5 places left", "3.5 places right"], "answer": 1 },
+      { "q": "What is 347,000,000 in scientific notation?", "choices": ["3.47 × 10^7", "3.47 × 10^8", "34.7 × 10^7", "347 × 10^6"], "answer": 1 },
+      { "q": "Which is equivalent to 1.5 × 10^-2?", "choices": ["0.015", "0.15", "1.5", "15"], "answer": 0 }
+    ]
+  },
+  {
+    "grade": 8,
+    "topic": "Exponents & Roots",
+    "lessonMarkdown": "# Exponents & Roots 🔢🐱\n\nCats understand powers and taking roots!\n\n- Exponents show repeated multiplication: 2³ = 2 × 2 × 2 = 8\n- Rules of exponents help simplify expressions\n- Negative exponents mean reciprocals: 2^-3 = 1/2³ = 1/8\n- Square roots undo squaring: √25 = 5 because 5² = 25\n\n> **Meowtip:** Remember that a^(m×n) = (a^m)^n and (a×b)^n = a^n × b^n\n\n**Ready to explore powers?**",
+    "mcq": [
+      { "q": "What is 2^4 × 2^3?", "choices": ["2^7", "2^12", "4^7", "8^7"], "answer": 0 },
+      { "q": "Simplify: (3^2)^3", "choices": ["3^5", "3^6", "9^3", "27^2"], "answer": 1 },
+      { "q": "What is 5^-2?", "choices": ["1/25", "-25", "-1/25", "25"], "answer": 0 },
+      { "q": "Simplify: √49", "choices": ["5", "7", "9", "24.5"], "answer": 1 },
+      { "q": "Which equals 8^(2/3)?", "choices": ["2", "4", "16", "64"], "answer": 1 }
+    ],
+    "quizBank": [
+      { "q": "Simplify: 3^4 ÷ 3^2", "choices": ["3^2", "3^6", "3^8", "9"], "answer": 0 },
+      { "q": "What is (2^3)^2?", "choices": ["2^5", "2^6", "4^3", "64"], "answer": 1 },
+      { "q": "Simplify: 4^-1", "choices": ["1/4", "-4", "-1/4", "4"], "answer": 0 },
+      { "q": "What is √121?", "choices": ["9", "10", "11", "12"], "answer": 2 },
+      { "q": "What is 2^0?", "choices": ["0", "1", "2", "Undefined"], "answer": 1 },
+      { "q": "Simplify: (2^3 × 3^2) ÷ (2^2 × 3)", "choices": ["2 × 3", "2 × 9", "4 × 3", "8 × 9"], "answer": 0 },
+      { "q": "What is the cube root of 27?", "choices": ["3", "6", "9", "27"], "answer": 0 },
+      { "q": "Which is equivalent to 4^(3/2)?", "choices": ["2", "4√4", "8", "32"], "answer": 2 }
     ]
   }
 ] 

@@ -2,6 +2,7 @@ import SwiftUI
 
 struct ProfileTabView: View {
     @EnvironmentObject private var userProfileVM: UserProfileVM
+    @EnvironmentObject private var lessonVM: LessonVM
     @Environment(\.dismiss) private var dismiss
     @State private var showEmojiPicker = false
     @State private var showGradePicker = false
@@ -71,12 +72,13 @@ struct ProfileTabView: View {
                             .bold()
                         
                         ForEach(Grade.allCases) { grade in
+                            let completedTopicsCount = lessonVM.getCompletedTopicsCount(for: grade.rawValue)
                             HStack {
                                 Text(grade.displayName)
                                 Spacer()
                                 HStack(spacing: 4) {
                                     ForEach(0..<5) { index in
-                                        Image(systemName: index < (userProfileVM.quizResults.first { $0.grade == grade }?.starRating ?? 0) ? "star.fill" : "star")
+                                        Image(systemName: index < grade.getStarRating(completedTopicsCount: completedTopicsCount) ? "star.fill" : "star")
                                             .foregroundColor(.yellow)
                                     }
                                 }
@@ -90,7 +92,11 @@ struct ProfileTabView: View {
                         }
                     }
                     
-                    Button(action: userProfileVM.resetProgress) {
+                    Button(action: {
+                        userProfileVM.resetProgress()
+                        lessonVM.completedTopics = []
+                        lessonVM.loadLesson(for: Grade(rawValue: userProfileVM.selectedGrade) ?? .k)
+                    }) {
                         Text("Reset Progress")
                             .foregroundColor(.red)
                             .padding()

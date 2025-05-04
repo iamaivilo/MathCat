@@ -40,13 +40,13 @@ struct GameTabView: View {
             .padding(.horizontal)
         }
         .sheet(isPresented: $showTreatGame) {
-            CatTreatGameView()
+            CatTreatGameView().environmentObject(userProfileVM)
         }
         .sheet(isPresented: $showGroomingGame) {
-            CatGroomingGameView()
+            CatGroomingGameView().environmentObject(userProfileVM)
         }
         .sheet(isPresented: $showCatHouse) {
-            CatHouseView()
+            CatHouseView().environmentObject(userProfileVM)
         }
     }
 }
